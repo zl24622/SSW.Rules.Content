@@ -1,0 +1,15 @@
+---
+type: category
+title: Rules to Better Branching And Builds
+uid: rules-to-better-branching-and-builds
+index:
+- do-you-check-your-workspaces-when-defining-a-new-build
+- do-you-know-that-branches-are-better-than-labels
+- do-you-know-the-minimum-builds-to-create-for-your-project
+- do-you-know-when-to-branch-in-tfs-aka-tfvc
+- do-you-know-when-to-use-an-on-premises-build-server-with-visual-studio-online
+
+---
+
+
+
