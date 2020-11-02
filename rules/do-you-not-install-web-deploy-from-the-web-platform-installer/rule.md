@@ -10,17 +10,13 @@ related: []
 
 ---
 
+You should not Install Web Deploy from the Web Platform Installer, but instead download the installation from the IIS web site (http://www.iis.net/downloads/microsoft/web-deploy).
 
+The reason for this is that the Web Platform Installer does not install all of the components required for continuous deployment, but the downloaded package does.
+ 
+More information on this issue here: [Don't Install Web Deployment Tool using the Web Platform Installer](http://nicksnettravels.builttoroam.com/post/2010/04/22/Done28099t-Install-Web-Deployment-Tool-using-the-Web-Platform-Installer.aspx)
 
-<span class='intro'> <p>​​​You should not Install Web Deploy from the Web Platform Installer, but instead download the installation from the IIS web site (<a href="http&#58;//www.iis.net/downloads/microsoft/web-deploy" target="_blank">http&#58;//www.iis.net/downloads/microsoft/web-deploy</a>).</p>
-<p>The reason for this is that the Web Platform Installer does not install all of the components required for continuous deployment, but the downloaded package does.
-</p> </span>
-
-<p>More information on this issue here&#58; <a href="http&#58;//nicksnettravels.builttoroam.com/post/2010/04/22/Done28099t-Install-Web-Deployment-Tool-using-the-Web-Platform-Installer.aspx">Don't Install Web Deployment Tool using the Web Platform Installer</a></p><dl class="badImage"><dt>
-      <img src="/PublishingImages/web-platform-installer.jpg" alt="" />
-   </dt><dd>Figure&#58; Bad Example - Installing Web Deploy from the Web Platform Installer does not install all the components required for continuous deployment​</dd></dl><dl class="goodImage"><dt>
-      <img src="/PublishingImages/web-deploy-installer.jpg" alt="" />
-   </dt><dd>Figure&#58; Good Example - Install Web Deploy 3.0 by downloading the package from 
-      <a target="_blank" href="http&#58;//www.iis.net/downloads/microsoft/web-deploy">http&#58;//www.iis.net/downloads/microsoft/web-deploy</a></dd></dl>
-
-
+[[badExample]]
+| ![Installing Web Deploy from the Web Platform Installer does not install all the components required for continuous deployment](web-platform-installer.jpg)
+[[goodExample]]
+| ![Install Web Deploy 3.0 by downloading the package from <br>      http://www.iis.net/downloads/microsoft/web-deploy](web-deploy-installer.jpg)

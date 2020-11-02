@@ -14,18 +14,13 @@ related: []
 
 ---
 
+Whenever we setup a new Team Project we implement a basic version control structure. We put "readme.txt" files in the folder structure explaining the different levels, and a solution file called [Client].[Product].sln?located at ?/[Client]/[Product]/DEV/ within version control.
 
+![Messy solution ](MessySolution.jpg)
+![Ideal solution ](IdealSolution.jpg)
+For more implementation details see:     
+[http://blog.hinshelwood.com/archive/2010/05/17/guidance-how-to-layout-you-files-for-an-ideal-solution.aspx](http://www.ssw.com.au/ssw/redirect/LayoutSolution.htm)
 
-<span class='intro'> <p>​​​Whenever we setup a new Team Project we implement a basic version control structure. We put &quot;readme.txt&quot; files in the folder structure explaining the different levels, and a solution file called [Client].[Product].sln?located at ?/[Client]/[Product]/DEV/&#160;​within version control.</p><dl class="image"><dt>
-      <img alt="Messy solution " src="/PublishingImages/MessySolution.jpg" style="margin&#58;5px;" />
-   </dt><dd>Figure&#58; Bad Example, how would anyone know how to sort this mess out?</dd></dl>
- </span>
+### Related rule
 
-<dl class="image"><dt> 
-      <img alt="Ideal solution " src="/PublishingImages/IdealSolution.jpg" /> 
-   </dt><dd>Figure&#58; Good Example, The ideal solution. </dd></dl><p>For more implementation details see&#58; 
-   <br> 
-   <a href="http&#58;//www.ssw.com.au/ssw/redirect/LayoutSolution.htm">http&#58;//blog.hinshelwood.com/archive/2010/05/17/guidance-how-to-layout-you-files-for-an-ideal-solution.aspx</a></p><h3>Related rule</h3><ul><li> 
-      <a href="/do-you-have-a-consistent-net-solution-structure">Do you have a consistent .NET Solution Structure?​</a>​</li></ul>
-
-
+- [Do you have a consistent .NET Solution Structure?](/do-you-have-a-consistent-net-solution-structure)

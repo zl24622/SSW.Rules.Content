@@ -7,6 +7,5 @@ index:
 - do-you-realize-the-importance-of-a-good-email-subject
 
 ---
-
-
+ 
 

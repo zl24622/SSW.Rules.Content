@@ -10,6 +10,5 @@ index:
 - do-you-know-when-to-use-an-on-premises-build-server-with-visual-studio-online
 
 ---
-
-
+ 
 

@@ -12,18 +12,19 @@ related: []
 
 ---
 
+Once you are ready to start you need to make sure that no one can access the existing TFS 2008 server while you do the migration.
+
+1. You are ready to start
+2. Send out an email notifying all users that TFS2008 will be turned off. 
+Follow [Rules to better Networks](http://www.ssw.com.au/SSW/Standards/Rules/RulesToBetterNetworks.aspx#rebootrestart)
+3. Make sure no-one can check in files by either:
+    1. Running [TFSQuiesce](http://support.microsoft.com/kb/950893) (recommended) 
+or
+    2. Turning off TFS Service
+        1. Remote desktop into TFS 2008
+        2. Start IIS
+        3. Right click Team Foundation Server | Stop
 
 
-<span class='intro'> <p>Once you are ready to start you need to make sure that no one can access the existing TFS 2008 server while you do the migration.</p>
-<ol><li>You are ready to start </li>
-<li>Send out an email notifying all users that TFS2008 will be turned off.&#160;<br>Follow <span><a href="http&#58;//www.ssw.com.au/SSW/Standards/Rules/RulesToBetterNetworks.aspx#rebootrestart" shape="rect" target="_blank">Rules to better Networks</a></span> </li>
-<li>Make sure no-one can check in files by either&#58; <ol><li>Running <a href="http&#58;//support.microsoft.com/kb/950893" target="_blank">TFSQuiesce</a> (recommended) <br>or </li>
-<li>Turning off TFS Service <ol><li>Remote desktop into TFS 2008</li>
-<li>Start IIS</li>
-<li>Right click Team Foundation Server | Stop </li></ol>
-<span><img src="/PublishingImages/StopTFSServices.png" alt="" style="width&#58;500px;height&#58;412px;" /></span><br><span style="font-size&#58;12px;font-weight&#58;bold;">Figure&#58;&#160;You need to stop anyone checking in files</span>&#160; </li></ol></li>
-<li>Confirm you can no longer get latest on the Northwind team project </li></ol> </span>
-
-
-
-
+![You need to stop anyone checking in files](StopTFSServices.png)
+4. Confirm you can no longer get latest on the Northwind team project

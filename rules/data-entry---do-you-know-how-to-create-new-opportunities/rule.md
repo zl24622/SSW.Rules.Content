@@ -12,24 +12,11 @@ related: []
 
 ---
 
+You need to know what's in the sales pipeline, and the way to do that is by entering a potential sale and it's value.
+ **
+** 
 
-
-<span class='intro'> You need to know what's in the sales pipeline, and the way to do that is by entering a potential sale and it's value.<div><strong><br></strong></div><div><strong>Note&#58;</strong> In order to enter new Opportunities into CRM, the company the Opportunity belongs to must already&#160;exist. </div> </span>
-
-<dl class="goodImage">
-          <dt>
-            <img src="/PublishingImages/Sales-Opportunities.jpg" alt="Change CRM company Logo" style="width&#58;600px;height&#58;186px;" />
-          </dt>
-          <dd>
-            Figure&#58; In CRM 2013, click on Sales | Opportunities​</dd>
-        </dl>
-        <dl class="goodImage">
-          <dt>
-            <img src="/PublishingImages/NewOpportunity.jpg" alt="Change CRM company Logo" style="width&#58;600px;height&#58;283px;" />
-          </dt>
-          <dd>
-            Figure&#58; Click New, enter the Opportunity, especially the $&#160;value and the chance of success</dd>
-        </dl>
-
-
-
+ **Note:** In order to enter new Opportunities into CRM, the company the Opportunity belongs to must already exist. 
+ 
+![In CRM 2013, click on Sales | Opportunities](Sales-Opportunities.jpg)
+![Click New, enter the Opportunity, especially the $ value and the chance of success](NewOpportunity.jpg)

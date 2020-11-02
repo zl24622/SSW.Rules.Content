@@ -16,15 +16,15 @@ related: []
 
 ---
 
+1. Install the TFS Power Tools
+2. When you install this, make sure you do a 'Custom Install', and select the 'Shell Integration' option (this is off by default)
 
 
-<span class='intro'> <ol><li>Install the TFS Power Tools </li>
-<li>When you install this, make sure you do a 'Custom Install', and select the 'Shell Integration' option (this is off by default) </li></ol>
-<dl><dt><img alt="Use Windows Explorer" src="/PublishingImages/TFS_WE_01.jpg" /></dt>
-<dd>Figure&#58; Using Windows Explorer for your source control is a dream (great for designers too - who don't want to use VS.NET) </dd></dl>
-<p>Suggestion to the TFS Team&#58; I didn't see blame annotate in the drop down - which is a bit odd. </p>
-<p>More reading from the prolific Brian Harry&#58; <br><a href="http&#58;//blogs.msdn.com/bharry/archive/2008/11/08/oct-08-tfs-power-tools-are-available.aspx">http&#58;//blogs.msdn.com/bharry/archive/2008/11/08/oct-08-tfs-power-tools-are-available.aspx</a> <img title="You are now leaving SSW" src="http&#58;//www.ssw.com.au/ssw/images/external.gif" alt="" /> <br><a href="http&#58;//blogs.msdn.com/bharry/archive/2008/10/01/preview-of-the-next-tfs-power-tools-release.aspx">http&#58;//blogs.msdn.com/bharry/archive/2008/10/01/preview-of-the-next-tfs-power-tools-release.aspx</a> <img title="You are now leaving SSW" src="http&#58;//www.ssw.com.au/ssw/images/external.gif" alt="" /></p> </span>
+![Using Windows Explorer for your source control is a dream](TFS_WE_01.jpg)(great for designers too - who don't want to use VS.NET) 
+Suggestion to the TFS Team: I didn't see blame annotate in the drop down - which is a bit odd.
 
-
-
-
+More reading from the prolific Brian Harry: 
+http://blogs.msdn.com/bharry/archive/2008/11/08/oct-08-tfs-power-tools-are-available.aspx 
+![](../../assets/external.gif "You are now leaving SSW") 
+http://blogs.msdn.com/bharry/archive/2008/10/01/preview-of-the-next-tfs-power-tools-release.aspx 
+![](../../assets/external.gif "You are now leaving SSW")

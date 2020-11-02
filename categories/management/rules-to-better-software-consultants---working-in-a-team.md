@@ -7,6 +7,5 @@ index:
 - communication---do-you-go-beyond-text-when-using-teamszoomskype-chat
 
 ---
-
-
+ 
 

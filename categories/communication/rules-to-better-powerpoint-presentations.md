@@ -14,6 +14,5 @@ index:
 - do-you-have-good-and-bad-bullet-points
 
 ---
-
-
+ 
 

@@ -13,6 +13,5 @@ index:
 - do-you-share-screens-when-working-remotely
 
 ---
-
-
+ 
 

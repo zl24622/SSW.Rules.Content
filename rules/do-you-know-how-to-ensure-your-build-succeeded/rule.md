@@ -10,10 +10,14 @@ related: []
 
 ---
 
+When checking code into TFS, a build should be triggered as per the rule [Do you know the minimum builds to create on any branch?](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterVersionControlwithTFS%28AKASourceControl%29.aspx#MinimumBuilds)
 
+You should not just trigger a build and walk away however – make sure that build succeeded!
+ 
+The first way is from within Visual Studio.
 
-<span class='intro'> <p>When checking code into TFS, a build should be triggered as per the rule <a href="http&#58;//www.ssw.com.au/ssw/Standards/Rules/RulesToBetterVersionControlwithTFS%28AKASourceControl%29.aspx#MinimumBuilds">Do you know the minimum builds to create on any branch?</a></p><p>You should not just trigger a build and walk away however – make sure that build succeeded!</p> </span>
+[[goodExample]]
+| ![Check your build has passed from Team Explorer | Builds](builds-success-good.jpg)
+The second is by always having the TFS Build Notification tool always running. Through it you can subscribe to any builds you are interested in, when they start, end and their status.
 
-<p>The first way is from within Visual Studio.</p><dl class="goodImage"><dt><img src="/PublishingImages/builds-success-good.jpg" alt="" /></dt><dd>Figure&#58; Good Example – Check your build has passed from Team Explorer | Builds</dd></dl><p>The second is by always having the TFS Build Notification tool always running. Through it you can subscribe to any builds you are interested in, when they start, end and their status.</p><dl class="goodImage"><dt><img src="/PublishingImages/builds-success-better.jpg" alt="" /></dt><dd>Figure&#58; Better Example – Check your build(s) are continually passing by having the TFS Build Notification tool always running - Start | All Programs | Visual Studio 2012 | Team Foundation Server Tools | Build Notifications</dd></dl>
-
-
+![Better Example – Check your build](builds-success-better.jpg)(s) are continually passing by having the TFS Build Notification tool always running - Start | All Programs | Visual Studio 2012 | Team Foundation Server Tools | Build Notifications

@@ -12,12 +12,7 @@ related: []
 
 ---
 
+And remember to periodically select "Check All Subfolders" to make sure all folders are being synced in your .ost file.
 
 
-<span class='intro'> ​​And remember to periodically select &quot;Check All Subfolders&quot; to make sure all folders are being synced in your .ost file.<br>
-<br>
- </span>
-
-<dl class="image"><dt><img src="/PublishingImages/offline.JPG" alt="offline" /></dt><dd>Figure&#58; Periodically check that all your mail folders are being synced in your offline.ost file </dd> </dl>
-
-
+![Periodically check that all your mail folders are being synced in your offline.ost file](offline.JPG)

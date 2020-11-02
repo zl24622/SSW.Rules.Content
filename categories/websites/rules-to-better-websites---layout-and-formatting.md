@@ -12,6 +12,5 @@ index:
 - do-your-page-urls-use-dashes-between-words
 
 ---
-
-
+ 
 

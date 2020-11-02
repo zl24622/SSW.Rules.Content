@@ -6,6 +6,5 @@ index:
 - crm20132015---do-you-use-crm-business-rules-to-automate-forms
 
 ---
-
-
+ 
 

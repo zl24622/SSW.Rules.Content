@@ -26,6 +26,5 @@ index:
 - do-you-track-important-emails-in-crm
 
 ---
-<p>​​​​<br></p>
 
 

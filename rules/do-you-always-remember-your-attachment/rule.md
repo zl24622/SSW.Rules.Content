@@ -12,15 +12,9 @@ related: []
 
 ---
 
+<br>When you refer to an attachment in your email, don't forget to include the attachment. I always attach the files first before I write my message. 
 
 
-<span class='intro'>   <br>
-When you refer to an attachment in your email, don't forget to include the attachment. I always attach the files first before I write my message. <br>
- </span>
+We have a program called [SSW LookOut! for Outlook](http://www.ssw.com.au/ssw/LookOut/) to check for this rule. 
 
-  <br>
-<div class="ms-rteCustom-YellowBorderBox">We have a program called <a href="http&#58;//www.ssw.com.au/ssw/LookOut/">SSW LookOut! for Outlook</a> to check for this rule. <br>
-<img src="http&#58;//www.ssw.com.au/ssw/Standards/Rules/Images/ContactorAttached.gif" alt="Contact or attached" class="ms-rteCustom-ImageArea" /> <span class="ms-rteCustom-FigureNormal">Figure&#58; SSW LookOut! for Outlook automatically warns you if you have forgotten to include your attachments. </span></div>
-
-
-
+![SSW LookOut](../../assets/ContactorAttached.gif)! for Outlook automatically warns you if you have forgotten to include your attachments.
