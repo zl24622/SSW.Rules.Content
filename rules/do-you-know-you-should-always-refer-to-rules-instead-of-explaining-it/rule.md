@@ -12,12 +12,13 @@ related: []
 
 When a new programmer on your team needs to get up and running on the SharePoint image you know the right and wrong way to say it.
 
-::: bad-example
-Sit with John Liu and he will get you up on our SharePoint image 
-:::::
-
 ::: custom-block bad-example
+::: custom-block-heading
+Explain how to run the SharePoint image
+:::
+::: custom-block-body
 Sit with John Liu and he will get you up on our SharePoint image 
+:::
 :::::
 
 [[badExample | Explain how to run the SharePoint image]]
