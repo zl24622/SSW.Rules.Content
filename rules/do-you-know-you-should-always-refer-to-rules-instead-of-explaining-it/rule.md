@@ -16,10 +16,6 @@ When a new programmer on your team needs to get up and running on the SharePoint
 Sit with John Liu and he will get you up on our SharePoint image 
 :::::
 
-::: {.bad-example text=Explain how to run the SharePoint image} 
-Sit with John Liu and he will get you up on our SharePoint image
-:::::
-
 [[badExample | Explain how to run the SharePoint image]]
 |  Sit with John Liu and he will get you up on our SharePoint image
 
