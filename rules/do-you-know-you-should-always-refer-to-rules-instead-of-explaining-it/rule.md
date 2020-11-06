@@ -12,7 +12,11 @@ related: []
 
 When a new programmer on your team needs to get up and running on the SharePoint image you know the right and wrong way to say it.
 
-::: greybox
+::: bad-example
+Sit with John Liu and he will get you up on our SharePoint image 
+:::::
+
+::: custom-block bad-example
 Sit with John Liu and he will get you up on our SharePoint image 
 :::::
 
