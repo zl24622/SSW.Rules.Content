@@ -24,6 +24,7 @@ Sit with John Liu and he will get you up on our SharePoint image
 ::: greybox
 Text
 :::
+Figure: test figure
 
 [[badExample | Explain how to run the SharePoint image]]
 |  Sit with John Liu and he will get you up on our SharePoint image
