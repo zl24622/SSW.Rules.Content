@@ -21,6 +21,10 @@ Sit with John Liu and he will get you up on our SharePoint image
 :::
 :::::
 
+::: greybox
+Text
+:::
+
 [[badExample | Explain how to run the SharePoint image]]
 |  Sit with John Liu and he will get you up on our SharePoint image
 
