@@ -28,9 +28,9 @@ Before Text
 ::: greybox
 Text
 :::
-[ **Figure: test good example** ]{.good}  
-[ **Figure: test bad example** ]{.bad}  
-[ **Figure: test ok example** ]{.ok}  
+[Figure: test good example]{.good}  
+[Figure: test bad example]{.bad}  
+[Figure: test **ok** example]{.ok}  
 
 [[badExample | Explain how to run the SharePoint image]]
 |  Sit with John Liu and he will get you up on our SharePoint image
