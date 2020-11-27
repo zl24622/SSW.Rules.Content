@@ -29,7 +29,7 @@ Before Text
 Text
 :::
 [Figure: test good example]{.good}  
-[<strong>Figure: test bad example</strong>]{.bad}  
+[Figure: test bad [rules](https://www.ssw.com.au/rules) example]{.bad}  
 [Figure: test ok example]{.ok}  
 
 [[badExample | Explain how to run the SharePoint image]]
