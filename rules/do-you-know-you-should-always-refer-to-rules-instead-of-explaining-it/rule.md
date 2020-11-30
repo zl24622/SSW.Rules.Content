@@ -28,9 +28,9 @@ Sit with John Liu and he will get you up on our SharePoint image
 ::: greybox
 Text
 :::
-[Figure: test good example]{.good}  
-[Figure: test bad example]{.bad}  
-[Figure: test ok example]{.ok}  
+[Figure: test good example]{class=good}  
+[Figure: test bad example]{class=bad}  
+[Figure: test ok example]{class=ok}  
 
 ::: good
 Figure: test good example
