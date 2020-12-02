@@ -7,6 +7,10 @@ authors:
 - id: 16
   title: Tiago Araujo
 related: []
+redirects:
+- test4
+- test5
+- test6
 
 ---
 
