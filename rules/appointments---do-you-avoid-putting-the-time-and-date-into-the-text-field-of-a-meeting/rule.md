@@ -9,7 +9,10 @@ authors:
 - id: 2
   title: Cameron Shaw
 related: []
-
+redirects:
+- test1
+- test2
+- test3
 ---
 
 Avoid putting the date and time into the text field of a meeting since these are often overlooked when changing the meeting time/date metadata.<br>

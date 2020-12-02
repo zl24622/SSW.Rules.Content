@@ -10,10 +10,7 @@ index:
 - do-you-show-the-progress-and-the-total-file-size-on-downloads
 - do-you-use-gravatar-for-your-profile-pictures
 - do-your-page-urls-use-dashes-between-words
-redirects:
-- test1
-- test2
-- test3
+
   
 ---
  
