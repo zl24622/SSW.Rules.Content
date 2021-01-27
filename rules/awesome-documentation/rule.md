@@ -141,10 +141,7 @@ Documents to be read or edited by the Product Owner (or other members of the Scr
 ![Figure: Bad example - Azure DevOps project without any documentation or instruction](azuredevops-bad.png)  
 :::
 
-
-::: ok  
 ![Figure: OK example - Github project with README instructions on how to compile and run the project (but still has a TODO)](documentation__level2__good-example-1-gh.png)  
-:::
 
 
 ::: good  

@@ -111,12 +111,6 @@ Since we already have a great title and body, the last thing to do is to associa
 
 Linking an issue to a pull request can serve as documentation on which development work that was done on a specific PBI/issue. It may help the team in the future to debug when and which changes were introduced and what was the original specification of that piece of work.
 
-
-::: ok  
 ![Figure: Linking a pull request to the related issue](better-pr-link-issues.png)  
-:::
 
-
-::: ok  
-![Figure: A pull request is now associated with the related issue](better-pr-link-issues-linked.png)  
-:::
+![Figure: A pull request is now associated with the related issue](better-pr-link-issues-linked.png)

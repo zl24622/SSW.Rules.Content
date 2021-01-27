@@ -79,10 +79,7 @@ Figure: Good Example - Multiple options to approve with reasons for each
 
 :::
 
-
-::: ok  
 ![Figure: Hard decision - this guy needs to state why he recommends this option](complexity-and-false-hope.jpg)  
-:::
 
 ### Related Rules  
       

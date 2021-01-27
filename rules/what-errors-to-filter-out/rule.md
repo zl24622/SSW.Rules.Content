@@ -25,10 +25,7 @@ You should always keep on top of your RayGun crashreporting and not let the erro
 
 Luckily RayGun has built-in filtering to hide these frequent exceptions.
 
-
-::: ok  
 ![](raygun-filter.png)  
-:::
 
 To enable filtering:
 

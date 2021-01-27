@@ -21,12 +21,6 @@ Neither of these elements are intended to distract, so they are placed in the fo
 
 Adding the tag line and logo in the slide master will duplicate it automatically across all slides. This will dictate the size and font of text present on all slides.
 
-
-::: ok  
 ![Figure: Step 1 - Click 'Slide Master' button on the 'View' ribbon](master-2.gif)  
-:::
 
-
-::: ok  
-![Figure: Step 2 - Add your Logo and Tagline at bottom of the slide](master-3.gif)  
-:::
+![Figure: Step 2 - Add your Logo and Tagline at bottom of the slide](master-3.gif)

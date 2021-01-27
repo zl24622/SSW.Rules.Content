@@ -36,49 +36,28 @@ To set up a SharePoint Page as a Tab in Teams, follow these steps:
 
 1. Navigate to SharePoint:
 
-
-::: ok  
 ![Figure: Navigating to SharePoint from Teams](navigate-to-sharepoint-from-teams.png)  
-:::
 
 2. Create a SharePoint page
 
-
-::: ok  
 ![Figure: adding a new SharePoint page](adding-sharepoint-page.jpg)  
-:::
 
 3. Customize it
 
-
-::: ok  
 ![Figure: Customizing the page using the different controls](customizing-sharepoint-page.png)  
-:::
 
 4. Publish it (tips: you can even share it via Email or Promote it as a News)
 
-
-::: ok  
 ![Figure: Publishing the page](publishing-sharepoint-page.png)  
-:::
 
-
-::: ok  
 ![Figure: several options available once the page is published](options-avaialble-sharepoint-page.jpg)  
-:::
 
 5. Go To Teams and Add new Tab
 
 6. Select “SharePoint”
 
-
-::: ok  
 ![Figure: Adding the page as a tab in Teams](adding-sharepoint-page-as-a-tab-in-teams.png)  
-:::
 
 7. Select the page you just published and hit “save”
 
-
-::: ok  
-![Figure: picking the page from the menu](picking-sahrepoint-page-from-menu.jpg)  
-:::
+![Figure: picking the page from the menu](picking-sahrepoint-page-from-menu.jpg)

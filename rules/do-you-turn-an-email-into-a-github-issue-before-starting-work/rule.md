@@ -32,15 +32,9 @@ However, at the moment there is a limitation that it doesn't read inline attachm
 <!--endintro-->
 
 
-
-::: ok  
 ![Figure: Power Automate | Connectors | Github](email-to-github-issue2.png)  
-:::
 
-
-::: ok  
 ![Figure: Configure Flow connectors to create a new Github Issue from Outlook](email-to-github-issue1.png)  
-:::
 
 🔥Warning: This Flow connector does not suport inline images.
 

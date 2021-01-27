@@ -31,10 +31,7 @@ For example, on the free version of Expensify, you can make the "Category" field
 
 More features are available if you purchase the full version, and you can see these options on their [pricing features page.](https://www.expensify.com/pricing#features)
 
-
-::: ok  
 ![Figure: Selecting "Enabled" ensures that people using your policy have to enter that field before claiming](Expensify options.png)  
-:::
 
 Required fields are then identified by an asterisk when you are uploading an expense. Conveniently, most of this information is completed for you by the Smart Scan function.  On the free version, there is still room to add a manual "Comment" for more complicated claims if required.
 

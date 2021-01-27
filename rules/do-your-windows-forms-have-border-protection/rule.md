@@ -32,10 +32,7 @@ Border protection helps us design Windows Forms properly without placing  contro
 ![Figure: Good Example - All controls are in the border protection area and aligned correctly](../../assets/BorderProtectionGood.gif)  
 :::
 
-
-::: ok  
 ![Figure: Design mode](../../assets/BorderProtectionDesign.gif)  
-:::
 
 The way to implement border protection (the 2 vertical red lines) is implement it in the base form or base user control, and all other forms and user controls inherit the base class to get consistent border protection lines.
 

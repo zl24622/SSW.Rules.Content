@@ -27,10 +27,7 @@ Canvas Apps are just that, a blank canvas (or a template) that controls can be p
 * Need an App to create a checklist of work performed, take a photo of a finished product, then upload to cloud storage, not a problem a Canvas App can do that
 
 
-
-::: ok  
 ![Figure: Canvas App Example](canvas-apps-example.png)  
-:::
 
 ### Model-Driven Apps
 
@@ -40,10 +37,7 @@ The entry-level for a Model-Driven App maker is also higher with Data Modelling,
 
 Model-Driven Apps can also host Canvas Apps, where the majority of the application logic, forms, workflows can be in the main Model Driven App, and where a specific piece of functionality is required, a Canvas App can be embedded into a Model-Driven App form. An example of this could be taking photos of a finished job and uploading it to OneDrive.
 
-
-::: ok  
 ![Figure: Model-Driven App Example](model-driven-apps-example.png)  
-:::
 
 ### OK, I get it, now which do I use?
 

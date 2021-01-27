@@ -18,7 +18,4 @@ You might need to recover a delete file in SharePoint. You will find it at the R
 
 <!--endintro-->
 
-
-::: ok  
-![Figure: To find deleted files go to "Site Contents" &gt; "Recycle Bin"](sp-recycle-bin.png)  
-:::
+![Figure: To find deleted files go to "Site Contents" &gt; "Recycle Bin"](sp-recycle-bin.png)

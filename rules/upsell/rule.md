@@ -43,10 +43,7 @@ Customers normally appreciate this sentiment. You need to remember that prospect
 
 <!--endintro-->
 
-
-::: ok  
 ![](fries-mcdonalds-whitebg.gif)  
-:::
  #2 Consultants should always be visible when they spot an upsell/cross-sell opportunity
 When an Account Manager sells a solution to a customer, they are generally not trusted and have a bunch of competition.
 

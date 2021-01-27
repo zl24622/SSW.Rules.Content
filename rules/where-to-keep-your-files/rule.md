@@ -22,10 +22,7 @@ redirects:
 
 Each client project should have a nice place to keep files. In the old days, things were simple but limited, we simply used Windows Explorer and file shares. Today there are so many places that teams can store documents. E.g Dropbox, OneDrive, SharePoint, Microsoft Teams and Azure DevOps (was TFS).
 
-
-::: ok  
 ![](Screen Shot 2020-10-29 at 11.02.48 AM.png)  
-:::
 
 <!--endintro-->
 
@@ -34,10 +31,7 @@ Each client project should have a nice place to keep files. In the old days, thi
 
 The solution that allows the best collaboration with Developers, Project Managers, and other stakeholders is SharePoint and Microsoft Teams. It is super easy to create, upload, and share documents with others.
 
-
-::: ok  
 ![Figure: Teams | Team | Files. More at        https://rules.ssw.com.au/track-project-documents](Microsoft-Teams-Files.png)  
-:::
 
 ### What emails do you need to store?
 

@@ -27,10 +27,7 @@ Promoting your application and business via social media can be extremely benefi
 * Then post it to the Chinese site.
 * Great, now you are ready to post to all of the social media platforms simultaneously.
 
-
-::: ok  
 ![Figure:  Make sure that your social media presence covers the countries you have translated your application into](Weibo.jpg)  
-:::
 <dd> <span style="color:#555555;line-height:16px;font-size:11px;font-weight:bold;">              e.g. Link Auditor on Weibo (A local social media, China’s Twitter replacement)</span><span style="color:#555555;line-height:16px;font-size:11px;font-weight:bold;">. </span>  </dd>
 
 We have a service called [SSW Chinafy](https://www.ssw.com.au/ssw/Consulting/China-Localization.aspx) that can help you get started following this rule.

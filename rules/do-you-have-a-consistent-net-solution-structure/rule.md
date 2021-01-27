@@ -19,10 +19,7 @@ When developing software, we implement a [dependency injection centric architect
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: A Dependency Injection based architecture gives us great maintainability](dependency-injection-structure.png)  
-:::
 
 
 ::: good  

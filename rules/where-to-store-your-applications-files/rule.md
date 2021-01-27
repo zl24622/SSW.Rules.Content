@@ -18,10 +18,7 @@ Although many have differing opinions on this matter, Windows applications have 
 
 The following grid shows where application files should be placed:
 
-
-::: ok  
 ![](store-files.jpg)  
-:::
 
 <!--endintro-->
 

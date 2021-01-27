@@ -15,10 +15,7 @@ For any case of 'Add New', choose to open a new window (popup) for entering data
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: The 'Add New' button changes from a view into a data entry form](../../assets/EmbeddedAdd.jpg)  
-:::
 
 
 ::: bad  
@@ -40,7 +37,4 @@ However, you do need to call back on save and requery it.
 ![Figure: Good Example - the 'New' button in Outlook opens a new form for you to construct your email](../../assets/GoodEmbeddedAdd.jpg)  
 :::
 
-
-::: ok  
-![Figure: Adding a table in SharePoint have a popup with dimmed background](../../assets/sharepoint-add-table.jpg)  
-:::
+![Figure: Adding a table in SharePoint have a popup with dimmed background](../../assets/sharepoint-add-table.jpg)

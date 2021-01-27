@@ -24,7 +24,4 @@ To clear SQL Server's cache, run  **DBCC DROPCLEANBUFFERS** , which clears all d
 
 <!--endintro-->
 
-
-::: ok  
-![Figure: First call is after clearing the cache. The second one is without clearing the cache. (26 seconds vs 2 seconds)](ClearSQLServerCache\_BenchmarkTests.jpeg)  
-:::
+![Figure: First call is after clearing the cache. The second one is without clearing the cache. (26 seconds vs 2 seconds)](ClearSQLServerCache\_BenchmarkTests.jpeg)

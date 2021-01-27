@@ -20,10 +20,7 @@ redirects:
 
 Authentication and authorisation are complicated, and it is risky to try and implement it yourself.  Use this rule for a guide on choosing the right service or framework for your situation.
 
-
-::: ok  
 ![](security-icon-ssw.jpg)  
-:::
 
 <!--endintro-->
 
@@ -51,10 +48,7 @@ Without the answers to these questions, it will be difficult to choose the right
 ###  External Applications
 
 
-
-::: ok  
 ![Figure: WebAPI (Public facing/consumer Application) - Authentication selection flow chart](Flow Chart - External.png)  
-:::
 
 **Example Template to Customer:**
 
@@ -83,10 +77,7 @@ MFA - You would like to allow users to enable MFA.
 ###  Internal Applications
 
 
-
-::: ok  
 ![Figure: WebAPI (Internal Enterprise Application) - Authentication selection flow chart](Flow Chart - Internal.png)  
-:::
 
 
 

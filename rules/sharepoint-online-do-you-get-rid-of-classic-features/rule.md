@@ -24,40 +24,25 @@ Microfeed list is used to support the MicroFeed Classic web part. If you’re us
 
 To delete the Microfeed List, simply de-activate the Site Feed feature at the Web level:
 
-
-::: ok  
 ![](microfeed-sharepoint.png)  
-:::
 ![](site-feed-sharepoint.png)
-
-::: ok  
 ![](site-feed-sharepoint.png)  
-:::
 
 ### Company Announcements
 
 "Announcements" is a default List that used to be created with classic Team Sites. If you’re not using it, chances are you will never do, and modern News should be your replacement for it.
 
-
-::: ok  
 ![](company-announcements-sharepoint.png)  
-:::
 
 To remove company News, click “Settings” | “Remove” from Site Contents:
 
-
-::: ok  
 ![](site-feed-sharepoint2.png)  
-:::
 
 ### Drop Off Library
 
 Drop Off Libraries (Content Organizer feature) were a way to automate moving documents around based on Metadata. This is no longer the optimal solution and you should use Power Automate instead. To remove Drop Off Library from your site, you need to disable the “Content Organizer” Web level feature:
 
-
-::: ok  
 ![](content-organizer-sharepoint.png)  
-:::
 
 ### Deleting leftovers from Migrations
 
@@ -66,10 +51,7 @@ After migrating content from older versions of SharePoint, you may end up in a h
 The first thing you can try is enabling/disabling the feature again. In some cases, that will fix the issue and remove the unwanted list/library.
 If that doesn’t work, however, there is a more radical approach: removing the list/library using Powershell:
 
-
-::: ok  
 ![](jean-migration-1.jpg)  
-:::
 
 (In case you prefer using code straight away instead of the screenshot)
 
@@ -83,17 +65,11 @@ Remove-PnPList -Identity "Workflow Tasks" -Force
 
 However, on system Lists, you may get an error:
 
-
-::: ok  
 ![](jean-migration-2.jpg)  
-:::
 
 The workaround is to set the “AllowDeletion” flag to true before calling delete:
 
-
-::: ok  
 ![](jean-migration-3.png)  
-:::
 
 (In case you prefer using code straight away instead of the screenshot)
 

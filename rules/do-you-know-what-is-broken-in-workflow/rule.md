@@ -45,7 +45,4 @@ We think these SharePoint workflows need to be far more customizable.
 
 SharePoint does not provide support for complex reusable workflows easily - most companies go for a 3rd party solution:
 
-
-::: ok  
-![Figure: 3rd party tool - Blackpearl                        Figure: 3rd party tool - Nintex](Blackpearl.png)  
-:::
+![Figure: 3rd party tool - Blackpearl                        Figure: 3rd party tool - Nintex](Blackpearl.png)

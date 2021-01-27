@@ -19,16 +19,10 @@ If you have database driven pages on your website, you need a way of updating th
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: "New" and "Edit" links allow SSW Employees to maintain testimonial entries easily](MaintenanceDemo.gif)  
-:::
 
 
-
-::: ok  
 ![Figure: "Edit" button on WordPress admin bar](wordpress-edit.png)  
-:::
 
 
 
@@ -43,7 +37,4 @@ This is better than sending a 'Change from X to Y' email ([http://rules.ssw.com.
 ### Related Rule
 
 
-
-::: ok  
-![Do you use Markdown to store your content?](markdown.jpg)  
-:::
+![Do you use Markdown to store your content?](markdown.jpg)

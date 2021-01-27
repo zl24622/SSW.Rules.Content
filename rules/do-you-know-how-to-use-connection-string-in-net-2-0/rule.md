@@ -45,17 +45,11 @@ In .NET 2.0 you can access it in another way
 
 Step 1: Setup your settings in your common project. E.g. Northwind.Common
 
-
-::: ok  
 ![Figure: Settings in Project Properties](ConnStringNET2\_Settings.jpg)  
-:::
 
 Step 2: Open up the generated App.config under your common project. E.g. Northwind.Common/App.config
 
-
-::: ok  
 ![Figure: Auto generated app.config](ConnStringNET2\_CommonApp.GIF)  
-:::
 
 Step 3: ~~Copy the content into your entry applications app.config. E.g. Northwind.WindowsUI/App.config~~ The new setting has been updated to app.config automatically in .NET 2.0
 

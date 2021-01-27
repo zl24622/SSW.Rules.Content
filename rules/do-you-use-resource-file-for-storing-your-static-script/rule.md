@@ -64,12 +64,6 @@ string scriptTemplate = Resources.Scripts.DeleteJavascript;
 
 **Figure: The code in the first box, the string in the resource file in the 2nd box. This is the easiest to read + you can localize it eg. If you need to localize an Alert in the javascript**
 
-
-::: ok  
 ![Figure: Add a recourse file into your project in VS2005](CreateResource\_small.jpg)  
-:::
 
-
-::: ok  
-![Figure: Read value from the new added resource file](ReadResource\_small.jpg)  
-:::
+![Figure: Read value from the new added resource file](ReadResource\_small.jpg)

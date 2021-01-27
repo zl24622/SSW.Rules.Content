@@ -28,18 +28,12 @@ Do you configure redirection from HTTP to https for Outlook Web App (OWA)? To si
 7. Under  **Redirect Behavior** , select the  **Only redirect requests to content in this directory (not subdirectories)** check box.
 8. In the  **Status code** list, click  **Found (302)** .
 9. In the Actions pane, click  **Apply** . 
-
-::: ok  
 ![](OWARedirect.jpg)  
-:::
 
 10. Click  **Default Web Site** .
 11. In the Default Web Site Home pane, double-click  **SSL Settings** .
 12. In  **SSL Settings** , clear  **Require SSL** . 
-
-::: ok  
 ![](OWARedirect2.jpg)  
-:::
 
 
 

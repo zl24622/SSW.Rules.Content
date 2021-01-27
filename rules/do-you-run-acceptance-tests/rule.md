@@ -21,15 +21,9 @@ The 1st step in getting automated tests, is to setup Acceptance Tests:
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: Run each 'test case' with a prescribed configuration](run-acceptance-tests-1.jpg)  
-:::
 
-
-::: ok  
 ![Figure: As you progress through each step, 'Pass' or 'Fail' the expected results. Take screen captures or video as appropriate](run-acceptance-tests-2.jpg)  
-:::
 
 
 ::: bad  

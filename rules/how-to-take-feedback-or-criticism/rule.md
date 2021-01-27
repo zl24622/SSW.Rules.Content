@@ -45,10 +45,7 @@ https://www.americanexpress.com/en-us/business/trends-and-insights/articles/the-
 
 :::
 
-
-::: ok  
 ![Figure: Make sure you know how to take criticism well](dilbert-criticism-1.gif)  
-:::
   ![](Defensive behaviour.png) **Figure: Active listening can help with communication issues** 
 
 

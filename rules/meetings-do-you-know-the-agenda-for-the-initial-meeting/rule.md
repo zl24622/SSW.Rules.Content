@@ -63,7 +63,4 @@ The purpose of the initial meeting is to:
 * Leave a bit of marketing collateral behind. Branded Notepads or USB sticks are ideal.
 
 
-
-::: ok  
-![Figure: Do you listen?](WomanListening.jpg)  
-:::
+![Figure: Do you listen?](WomanListening.jpg)

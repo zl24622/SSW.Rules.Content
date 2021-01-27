@@ -26,10 +26,7 @@ The word "Urgent" is more important than the word "Important"
 
 :::
 
-
-::: ok  
 ![Figure: Remove roadblocks](challenges-ahead-sign.jpg)  
-:::
 
 This is the order which you should work:
 

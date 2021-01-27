@@ -18,7 +18,4 @@ Columns ending with 'ID' should have FOREIGN KEY constraints.
 
 <!--endintro-->
 
-
-::: ok  
-![Figure: Missing relationships](NorthwindRelationships.jpg)  
-:::
+![Figure: Missing relationships](NorthwindRelationships.jpg)

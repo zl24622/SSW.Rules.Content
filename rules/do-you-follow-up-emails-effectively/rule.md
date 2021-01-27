@@ -85,26 +85,17 @@ When you require a reminder to follow up on an email by a certain date:
 
 1. Click the Follow Up button 
       
-
-::: ok  
 ![Figure: Set a follow-up date](followup1.jpg)  
-:::
 
 2. Select an appropriate date from the drop-down or choose Custom to add additional reminders 
          
-
-::: ok  
 ![Figure: Add an additional reminder to follow up](followup2.jpg)  
-:::
 
     * You can even set a custom reminder for the recipient :)
 3. Outlook shows an info tip with the exact follow-up date you chose.
 4. A To-Do item is also added to your Outlook To-Do list 
       
-
-::: ok  
 ![Figure: An item is added to your To-Do list](followup3.jpg)  
-:::
 
     * To-Do list can be found in the Tasks pane
 5. On the due date you will receive a Reminder popup from Outlook

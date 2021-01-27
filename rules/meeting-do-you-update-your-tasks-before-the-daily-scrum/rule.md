@@ -17,10 +17,7 @@ All team members must update their tasks with  status, (and remaining hours if y
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: Update the following screen to keep your burndown rate accurate.](Updatetasks.jpg)  
-:::
 
 **Related Links** 
 

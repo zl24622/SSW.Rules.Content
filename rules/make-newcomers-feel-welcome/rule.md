@@ -26,10 +26,7 @@ There are few simple ways to help new hires feel more comfortable as they adjust
 
 Prior to the newcomer’s arrival, make sure their desk and work area are clean by giving the desktop, monitor, mouse and keyboard a wipe with a damp cloth. Then test that the equipment on their desk, such as the computer, phone and any other electronics, is in good working condition.
 
-
-::: ok  
 ![](Welcome-Shot.jpg)  
-:::
 
 **The day before they start:**
 

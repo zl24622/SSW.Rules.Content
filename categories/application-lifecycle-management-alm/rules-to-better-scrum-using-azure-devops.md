@@ -88,8 +88,5 @@ SSW's Rules to Better [Scrum](http://www.ssw.com.au/ssw/Consulting/Scrum.aspx) a
 Adam Cogan, SSW Chief Architect
  
 
-
-::: ok  
-![Figure: Classic stories of Project Management](ProjectManagementSummary\_Small.jpg)  
-:::
+![Figure: Classic stories of Project Management](ProjectManagementSummary\_Small.jpg)
 

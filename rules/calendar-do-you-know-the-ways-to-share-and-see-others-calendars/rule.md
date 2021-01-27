@@ -57,7 +57,4 @@ E.g. https://sswcom.sharepoint.com/sites/SSWSugarLearning391/Lists/Team%20Calend
 
 **Tip:** You can also connect the SharePoint calendar to your Outlook. Here's how to do that:
 
-
-::: ok  
-![Figure: In SharePoint 2016: On the "Calendar" tab, click "Connect to Outlook" to show the calendar in your Outlook account](sharepoint-sharing-calendar - using outlook.png)  
-:::
+![Figure: In SharePoint 2016: On the "Calendar" tab, click "Connect to Outlook" to show the calendar in your Outlook account](sharepoint-sharing-calendar - using outlook.png)

@@ -42,10 +42,7 @@ Here's an example of how FieldSet works:
 ```
 
 Figure: Example code of FieldSet     
-
-::: ok  
 ![Figure: How that code will look on the browser](fieldset-browser.jpg)  
-:::
 
 Things to remember:
 

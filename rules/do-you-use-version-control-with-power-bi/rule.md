@@ -58,22 +58,13 @@ Having a mixed set of rules for storing different file types based on their size
 
 To export a template from Power BI Desktop, select File | Export | Power BI template from the menu, enter a description, file name and click save, as per the below figures.
 
-
-::: ok  
 ![](PowerBI-SourceControl-1-3.jpg)  
-:::
  Figure: Exporting a Power BI Template from Power BI Desktop
 Add comments describing the changes made to the report and append to these, in descending order, each time a change is made. This way the history will be at hand each time the template is opened.
 
-
-::: ok  
 ![](PowerBI-SourceControl-2-3.jpg)  
-:::
 Figure: Enter a Description for the Template
-
-::: ok  
 ![Figure: Enter a File Name and Save](PowerBI-SourceControl-3-3.jpg)  
-:::
 
 Save your pbix file to the same folder as the template above, you’ll need these if you want to publish your report to Power BI Online.
 

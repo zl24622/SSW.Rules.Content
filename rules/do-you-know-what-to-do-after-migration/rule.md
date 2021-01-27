@@ -24,7 +24,4 @@ Although Sharegate migration tool works very well to help you with your SharePoi
 * Communicate about the changes
 
 
-
-::: ok  
-![Figure: After migration set your custom refinements so users can filter down into a specific area](set-custom-refinements.png)  
-:::
+![Figure: After migration set your custom refinements so users can filter down into a specific area](set-custom-refinements.png)

@@ -42,10 +42,7 @@ This makes more maintainable software with better architecture using industry st
     * Tip: This is also a good thing to have up on the wall as a reminder of who your main customers are at the moment.
 
 
-
-::: ok  
 ![Figure: A sample report to see your top clients](TotalInvoicedReport.jpg)  
-:::
 
                         
                         

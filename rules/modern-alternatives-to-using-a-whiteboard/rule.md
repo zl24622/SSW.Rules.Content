@@ -27,10 +27,7 @@ Software consultants often use architecture diagrams to present a solution to th
 ![Figure: Bad example - When working with people online, drawing on some paper, taking a photo, and emailing it… is the \*least\* collaborative way to work](hand-drawing.png)  
 :::
 
-
-::: ok  
 ![Figure: OK example - Teams Whiteboard is a good collaborating tool while working online. (Using a mouse is not pleasant, and a computer pen is not really natural for complex diagrams 🔥)](team\_whiteboard.jpg)  
-:::
 
 
 ::: good  
@@ -57,10 +54,7 @@ Using your laptop or Ipad and then sharing your screen in a remote meeting and i
 
 
       
-
-::: ok  
 ![Figure: Pens/Styluses help to draw better sketches](surface-pen.jpg)  
-:::
 
 
 
@@ -79,10 +73,7 @@ Using your laptop or Ipad and then sharing your screen in a remote meeting and i
 `youtube: https://www.youtube.com/embed/lZgVAbdwYNI`
 
                <br unselectable="on"> </div><dd> Figure: Using Samsung Flip </dd>
-
-::: ok  
 ![Figure: Samsung Flip can be flipped from horizontal to vertical](samsung_flip.jpg)  
-:::
 
 * **Microsoft Surface Hub 2** (about $12K AUD)
 <div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify"> 
@@ -99,10 +90,7 @@ Old school but it is great to have a pen in hand, you can always just grab a big
 
 Bear in mind that paper is not ideal because you can’t wipe it out... you have to start again #ouch
 
-
-::: ok  
 ![Figure: Paper whiteboards don't work when someone is in Sydney and the other attendee is in Melbourne](paperboard.jpg)  
-:::
 
 
 
@@ -118,17 +106,11 @@ Sometimes they are useful and I know some people really like them (generally old
 I have seen the digital whiteboards (usually targeted at teachers) but I think they are horrible to use.
 The common scenario is for a spec review. I am always happy when I see devs using their device and casting to the TV. And the subsequent notes get saved to Microsoft Teams.
 
-
-::: ok  
 ![Figure: Whiteboards are not a sign of a modern office.](whiteboard\_marker.png)  
-:::
 
 ### #5 Writable wall -  Low tech (ugly)
 
 
 Low tech (ugly) – Paint a wall to be writable or put some writable film on an office glass wall
 
-
-::: ok  
-![Figure: Writable walls can be dirty even after cleaning up](glass\_wall.jpg)  
-:::
+![Figure: Writable walls can be dirty even after cleaning up](glass\_wall.jpg)

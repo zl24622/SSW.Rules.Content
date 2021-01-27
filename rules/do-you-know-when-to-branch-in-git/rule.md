@@ -21,9 +21,7 @@ redirects: []
 
 ---
 
-::: ok  
 ![Note: This rule applies to git. For branching advice in TFVC, see Do you know when to branch in TFVC?](finishing-a-feature-with-world-class-flow.jpg)  
-:::
 
 The best way to handle continuous development and deployment is following [GitHub Flow](https://guides.github.com/introduction/flow/). The basic idea is to always deploy from  **master** , and to create a feature branch for every feature. When the feature is complete, it is merged back to master via a pull request, which provides a trigger for other developers to build.
 
@@ -47,10 +45,7 @@ Using this strategy,  **master** is always production-ready and deployable.
 ![Figure: Good example - Committing to a new branch](commit-branch-good.jpg)  
 :::
 
-
-::: ok  
 ![Figure: Great diagram from        GitHub](github-flow.jpg)  
-:::
 
 ### The process
 

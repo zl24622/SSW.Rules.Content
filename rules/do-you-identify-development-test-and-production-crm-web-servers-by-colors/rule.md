@@ -21,15 +21,9 @@ As per rule ["Do you have separate development, testing, and production environm
 ### CRM 
 
 
-
-::: ok  
 ![Figure: Staging uses blue background](ssw staging 2.png)  
-:::
 
-
-::: ok  
 ![Figure: Production uses red background](ssw production 2.png)  
-:::
 
 The way to change the default background color is to edit the CRM CSS files. These changes aren't supported and may be overwritten when CRM Rollups are applied.
 
@@ -38,10 +32,7 @@ The way to change the default background color is to edit the CRM CSS files. The
 
 Using theme feature to change the environment color.
 
-
-::: ok  
 ![Figure: Changing CRM 2016 UI by using theme feature](CRM2015Theme.JPG)  
-:::
 
 ### CRM 2013
 
@@ -64,10 +55,7 @@ position: relative;
 
  **Figure: Edit the background color to reflect the environment
 ** 
-
-::: ok  
 ![Figure: CRM 2013 with a green navigation bar](crm2013\_greenbar.jpg)  
-:::
 
 <!--endintro-->
 
@@ -117,20 +105,11 @@ body.stage
 
 :::
  Figure: In C:\Inetpub\wwwroot\\_common\styles\global.css.aspx comment out and change the reference in yellow so the users know what server they are on
-
-::: ok  
 ![Figure: Color of CRM Development Server - Red](CRM\_DevelopmentColor.jpg)  
-:::
 
-
-::: ok  
 ![Figure: Color of CRM Test Server - Yellow](CRM\_TestColor.jpg)  
-:::
 
-
-::: ok  
 ![Figure: Color of CRM Production Server - Default](CRM\_ProductionColor.jpg)  
-:::
 
 ### SharePoint online
 
@@ -141,24 +120,12 @@ Here is what we change:
 * Site Settings | Change The Look
     * Test – Orange 
             
-
-::: ok  
 ![Figure: Selecting Orange theme for test](sharepoint-orange-theme.jpg)  
-:::
 
-
-::: ok  
 ![Figure: orange theme applied](sharepoint-orange-applied.jpg)  
-:::
 
     * Production - Office 
             
-
-::: ok  
 ![Figure: Selecting Office theme for Production](sharepoint-office-theme.jpg)  
-:::
 
-
-::: ok  
-![Figure: office (blue) theme applied](sharepoint-office-applied.jpg)  
-:::
+![Figure: office (blue) theme applied](sharepoint-office-applied.jpg)

@@ -29,10 +29,7 @@ UPDATED: 1 August 2010 [what you changed]
 
 :::
 
-
-::: ok  
 ![Figure: OK example – Although Peter has the right idea, he needs to think more of a global audience -        See live](RulesBloggingUpdate\_OKPeter.jpg)  
-:::
 
 
 ::: good  

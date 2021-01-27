@@ -22,8 +22,5 @@ Your personal message should be simple, to the point, and make sure you change i
 
 <!--endintro-->
 
-
-::: ok  
 ![](Use-your-Persona- Message-to-share-good-news.jpg)  
-:::
  Figure: Use your Personal Message to share the good news

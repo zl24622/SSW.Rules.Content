@@ -32,10 +32,7 @@ It is paid work conducted after the initial meeting to determine the overall sco
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: A ballpark or proposal should start small and not be a big commitment](proposal.jpg)  
-:::
 
 
 ::: greybox
@@ -85,10 +82,7 @@ Most software consulting experts will be able to provide a small improvement to 
 
 ### Use 'Corridor Conversations'
 
-
-::: ok  
 ![Figure: Use corridor conversations to prevent nasty surprises](ProjectManagement\_Suprise.jpg)  
-:::
 
 The hallway is your friend. It's a place where you can gather a lot of information informally.
 

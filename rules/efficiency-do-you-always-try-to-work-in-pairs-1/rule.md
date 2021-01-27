@@ -18,10 +18,7 @@ There are many good reasons why it's better to work in pairs.
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: Do you always try to work in pairs?](ProjectManagement\_PairProgramming\_Luge.jpg)  
-:::
 
 For everyone:
 

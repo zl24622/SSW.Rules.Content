@@ -88,8 +88,5 @@ You can even go 🤘 hardcore and use the  **gitmoji cli -** [carloscuesta/gitmo
 ![](commits-with-emojis.jpg)  
 :::
    <dd>Good Example: Great use of emoji and concise message<span style="color:#444444;"></span></dd>
-
-::: ok  
 ![Figure: see what emojis work best with each topic here: 
-gitmoji.carloscuesta.me/](emojis-list.jpg)  
-:::
+gitmoji.carloscuesta.me/](emojis-list.jpg)

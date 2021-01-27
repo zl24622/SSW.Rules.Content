@@ -19,7 +19,4 @@ The [Microsoft Dynamics 365 Implementation Guide](https://www.microsoft.com/en-u
 
 <!--endintro-->
 
-
-::: ok  
-![Figure: Searching the PDF version of the implementation guide is much nicer than the Word document](microsoft-dynamics-365-implementation-guide-screenshot-contents.png)  
-:::
+![Figure: Searching the PDF version of the implementation guide is much nicer than the Word document](microsoft-dynamics-365-implementation-guide-screenshot-contents.png)

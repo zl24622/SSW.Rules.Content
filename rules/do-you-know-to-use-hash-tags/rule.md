@@ -47,10 +47,7 @@ The best tweets will use a combination of @mentions and #hashtags where appropri
 
 **Tip #1:** Encourage people to use the correct hashtag by adding the hashtag to your sidebar or footer.
 
-
-::: ok  
 ![Figure: On  www.ssw.com.au/ssw/netug you can see the sidebar shows a feed with the hashtag used](hashtag-stream.jpg)  
-:::
 
 **Tip #2:** When creating your own hashtag to promote a service, product or event, check if it isn't already in use for anything else.
 

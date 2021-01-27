@@ -95,12 +95,6 @@ Thanks, [XXX]
     * You get to work on the failures ASAP
 7. For clients on fixed price contracts, this email marks the start of the 30 day warranty period.
 8. Use TFS to email the work items to the project manager and client: 
-
-::: ok  
 ![Figure: TFS makes it easy to export work items](tfs-backlog-email.jpg)  
-:::
 
-
-::: ok  
-![Figure: How the email is generated](tfs-backlog-email-2.jpg)  
-:::
+![Figure: How the email is generated](tfs-backlog-email-2.jpg)

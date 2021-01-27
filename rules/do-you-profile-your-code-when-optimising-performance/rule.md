@@ -22,10 +22,7 @@ We recommend that you should always use a code profiling tool to measure perform
 
 1. Profile the application with Jetbrains dotTrace using the "Hot Spot" tab to identify the slowest areas of your application
             
-
-::: ok  
 ![Figure: Identify which parts of your code take the longest (Hot Spots)](JetBrainsProfilerHotSpots.jpg)  
-:::
 
         
     

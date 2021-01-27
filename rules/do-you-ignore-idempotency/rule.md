@@ -63,8 +63,5 @@ Good example – not worrying about the idempotency. If errors occur we don’t 
 :::
 
 
-
-::: ok  
 ![Figure: Viagra isn't the cure to your Idempotency problems](ViagraPill.jpg)  
-:::
        See the concept of [Idempotence on WikiPedia](http://en.wikipedia.org/wiki/Idempotence)

@@ -21,10 +21,7 @@ When you embed a YouTube video it will increase your page size from 500kbs to 1.
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: A side by side comparison – everyone wants less requests and a smaller page size](video-embed-load-time.png)  
-:::
 
 
 ::: bad  

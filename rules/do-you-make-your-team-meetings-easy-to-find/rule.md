@@ -40,19 +40,13 @@ When joining a new team, it's easy to be lost and not know when the important me
 4. Add a Group Calendar web part to the page
 5. Publish the page
 
-
-::: ok  
 ![Figure: Some easy to follow steps to create the SharePoint page](team meeting - create calendar page.gif)  
-:::
 
 6. In Teams, click add a new SharePoint tab to the Team
 7. Select the newly published SharePoint page
 8. Click Save
 
-
-::: ok  
 ![Figure: Adding a tab to a Team is an indispensable skill](team meeting - add sharepoint tab.gif)  
-:::
 
 9. All done 😀
 
@@ -86,10 +80,7 @@ Figure: Good Example - using the SharePoint tab
 
 **Suggestion to Microsoft:** [This is an unnecessary extra hoop to jump through. If you create an appointment from a Team then this tab should be automatically created.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/36007027-add-a-team-calendar-to-teams-or-allow-a-project-te)
 
-
-::: ok  
 ![Figure: As a bonus, I can the event to my calendar](team meetings - add yourself.jpg)  
-:::
 
 
 **Warning:** Only the organizer of a meeting can make changes to it and Teams offers no ability to transfer ownership of that meeting.

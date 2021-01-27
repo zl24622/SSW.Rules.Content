@@ -18,7 +18,4 @@ You should have Dynamics 365 installed on your phone.
 
 <!--endintro-->
 
-
-::: ok  
-![](dynamics365-app.png)  
-:::
+![](dynamics365-app.png)

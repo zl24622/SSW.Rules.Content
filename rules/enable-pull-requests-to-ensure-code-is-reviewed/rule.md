@@ -35,10 +35,7 @@ redirects:
 ![Figure: Good example - Use the plugin "Reviewable". Reviewable improves pull requests and code reviews with a powerful UI and easy code commenting. See the Reviewable icon above](github-pullrequest-1.png)  
 :::
 
-
-::: ok  
 ![Figure: See how easy it is to see the code rejected](github-pullrequest-2.png)  
-:::
 
 
 

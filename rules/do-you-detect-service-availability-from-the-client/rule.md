@@ -70,14 +70,8 @@ Both these options require service detection to operate properly. Remember that 
 
 **Solution 1: Remove the content**
 
-
-::: ok  
 ![](youtuberemove.png)  
-:::
 
 **Solution 2: Provide an alternative to the blocked service**
 
-
-::: ok  
-![](youku.png)  
-:::
+![](youku.png)

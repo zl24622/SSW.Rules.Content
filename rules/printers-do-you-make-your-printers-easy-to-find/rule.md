@@ -19,10 +19,7 @@ So you should add a DNS alias which maps \\printer to your print server.
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: \\printer takes to this window, were you can "Add" the printer via Connect](add-printer-via-connect.jpg)  
-:::
 
 
 ::: greybox

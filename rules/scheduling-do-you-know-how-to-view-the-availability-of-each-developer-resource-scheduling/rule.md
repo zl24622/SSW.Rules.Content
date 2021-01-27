@@ -41,9 +41,6 @@ All of the Appointments in the Service Calendar will also sync to the developers
 
 You have multiple options for ways to fill this data, which you can see in [<font color="#333333">Scheduling - Do you know how to book developers for a project? </font>](/Pages/How-to-book-developers-for-a-project.aspx)
 
-
-::: ok  
 ![Figure: The Service Calendar in CRM is showing that Drew is available but Mehmet is busy next week](CRMServiceCalendar.jpg)  
-:::
  
 <font color="#555555">Suggestion to Microsoft: One limitation of CRM is that you cannot send a URL to this page to someone, so they will have to navigate to it themselves</font>

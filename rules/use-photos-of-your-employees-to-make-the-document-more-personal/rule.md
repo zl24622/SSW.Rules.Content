@@ -20,7 +20,4 @@ It is also valid and important when talking about a case study to visually show 
 
 <!--endintro-->
 
-
-::: ok  
-![Figure: Use photos of your employees to make the document more personal](Proposals\_EmployeesPhotos.jpg)  
-:::
+![Figure: Use photos of your employees to make the document more personal](Proposals\_EmployeesPhotos.jpg)

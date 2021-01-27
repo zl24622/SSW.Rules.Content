@@ -34,7 +34,4 @@ Here's a couple of solutions:
 
 
 
-
-::: ok  
-![Figure: Sort by "Modified"](OutlookModifiedByDate.gif)  
-:::
+![Figure: Sort by "Modified"](OutlookModifiedByDate.gif)

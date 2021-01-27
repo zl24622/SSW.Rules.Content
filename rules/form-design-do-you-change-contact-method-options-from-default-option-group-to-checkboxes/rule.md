@@ -29,10 +29,7 @@ As per our rule [Do you know when to use CheckBox?](http://www.ssw.com.au/SSW/st
 6. Select a contact method field, i.e. Email
 7. Click "Change Properties"
                           
-
-::: ok  
 ![Figure: Select and change the email field's properties.](CRMChangeContactMethodsFieldProperties.jpg)  
-:::
 
               
             
@@ -40,11 +37,8 @@ As per our rule [Do you know when to use CheckBox?](http://www.ssw.com.au/SSW/st
 9. Change layout from "Two Columns" to "One Column" and select "Check box" as control
             formatting
             
-
-::: ok  
 ![Figure: Change layout and control formatting of email field to one column type and
               check box.](CRMChangeContactMethodsFieldProperties.jpg)  
-:::
 
             
           10. Repeat steps 6-9 for other contact method

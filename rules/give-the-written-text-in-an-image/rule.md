@@ -27,10 +27,7 @@ Let's look at 3 examples:
 ![Figure: Bad Example - this image gives no context of the surrounding areas, and without the text as well you get no google love](BadExampleErrorMSG.jpg)  
 :::
 
-
-::: ok  
 ![Figure: OK Example - this image is great because it gives context by including the surrounding area, but you still need the text for SEO benefits](OKExampleForErrorMSG.jpg)  
-:::
 
 
 ::: good  

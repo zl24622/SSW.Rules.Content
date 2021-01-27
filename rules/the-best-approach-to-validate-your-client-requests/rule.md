@@ -27,10 +27,7 @@ In the above example, model state validation is used to ensure the request is va
 
 One approach to solving this problem is to move validation to the Application layer, validate immediately before the request is executed. In the case of the above example, this could be implemented as follows:
 
-
-::: ok  
 ![Figure: OK Example - Validation Handled Manually within Request Handler Ensuring All Requests are Validated](validate-client-requests-ok.png)  
-:::
 
 The above implementation solves the problem. Whether the request originates from the Web API or a console app it will be validated before further processing occurs. However, the above code is boilerplate and will need to be repeated for each and every request that requires validation. And of course, it will only work if the developer remembers to include the validation check in the first place!
  

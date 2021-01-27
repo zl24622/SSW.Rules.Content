@@ -22,10 +22,7 @@ If you wish to organize a meeting that involves some of your colleagues and a cl
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: Use Outlook appointments to easily synchronise your calendar with your client's](OutlookAppointment.gif)  
-:::
 
 This way Outlook will remind your colleagues about the appointment and you can update them if any changes are made.
 

@@ -29,15 +29,9 @@ Outlook makes this easy:
 * Option 3: Use the ribbon as below
 
 
-
-::: ok  
 ![Figure: Open the appointment in your Calendar (You should already have Invited all the required people to attend)](Outlook 1.png)  
-:::
 
-
-::: ok  
 ![Figure: Click on "Contact Attendees" | "Reply to All with Email" if you created the appointment, or "Respond" | "Reply All" if you were invited](Outlook 2.png)  
-:::
 
 
 ::: good  

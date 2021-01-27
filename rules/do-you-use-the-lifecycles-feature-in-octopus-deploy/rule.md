@@ -22,10 +22,7 @@ As well as allowing continuous integration, the Lifecycles feature adds some goo
 
 Lifecycles can be found in the Library section of Octopus Deploy. By default, a project will use the Default Lifecycle which allows any deployment at any time.
 
-
-::: ok  
 ![Figure: Lifecycles can be found in the Library](Octopus\_Lifecycles.png)  
-:::
 
 You should create a new Lifecycle for each project you've configured with Octopus Deploy. You should set up a phase to continuously deploy to your first environment (e.g. test or staging), but make sure the final phase of the lifecycle is a manual step to production.
 

@@ -34,10 +34,7 @@ Audiences, in general, will allow you to try pulling up your ads to different gr
 ![Figure: Good Example – Add specific audiences and increase the engagement on your campaigns with your target audience](audience-2.png)  
 :::
 
-
-::: ok  
 ![Figure: Find your excluded audience so you won't waste any money for useless clicks](audience-3.png)  
-:::
 
 To be able to choose your audience and even create remarketing actions, you will have to use the tool “Audience Manager". Click on: Tools | Shared Library | Audience Manager
 
@@ -47,17 +44,8 @@ On Sources, you can link Google Analytics, YouTube (if you use this social media
 
 To build your In-Market and Affinity audiences, you can select from some options that Google will give you like below:
 
-
-::: ok  
 ![Figure: In-Market audiences that might be your right target](audience-4.png)  
-:::
 
-
-::: ok  
 ![Figure: Affinity audiences suggestions from Google](audience-5.png)  
-:::
 
-
-::: ok  
-![](audience-6.png)  
-:::
+![](audience-6.png)

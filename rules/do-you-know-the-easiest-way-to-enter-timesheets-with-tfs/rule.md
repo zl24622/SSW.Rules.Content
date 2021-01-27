@@ -17,10 +17,7 @@ Timesheets have always been the bane of developers, with them trying every excus
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: Our Office Manager chasing up timesheets](chase-up-timesheets.jpg)  
-:::
 
 The main problem is timesheet entry is often difficult, time consuming and requires double entry (e.g. into different systems TFS and invoicing system).
 

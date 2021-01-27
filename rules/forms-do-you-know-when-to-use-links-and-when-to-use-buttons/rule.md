@@ -39,10 +39,7 @@ That being said, there are a couple of exceptions to this rule.
 2. If you want a consistent design feel (and there is no confusion that the link is accepting data)
 
 
-
-::: ok  
 ![Figure: An exception to the rule - an "Update" button inside the datagrid would look inconsistent](LinksExample.gif)  
-:::
 
 
 ::: bad  

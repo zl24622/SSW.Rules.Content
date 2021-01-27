@@ -35,19 +35,13 @@ You may also find that some clients are unable to progress to a Spec Review unti
 
 A salesperson has 16 hours per month of developer time they can invest in this pre-sales investigation, so this time has to be used wisely.
 
-
-::: ok  
 ![Figure: Pre-sale meeting - use time wisely](adam-cogan-ceo-in-a-business-meeting.jpg)  
-:::
 
 Never offer a fixed price at the conclusion of an Initial Meeting, and this engagement model must be chosen before the Specification Review is done.
 
 More on the [Specification Review rules](/rules-to-better-specification-reviews).
 
-
-::: ok  
 ![Figure: Send a brief proposal](Brief-Proposal-MrNorthwind.jpg)  
-:::
 
 ### Ad-Hoc work/Consulting
 

@@ -20,10 +20,7 @@ The corner stone of good user interface design is that if your users need instru
 * No excuse for RTFM (read the freaking manual)
 
 
-
-::: ok  
 ![Figure: A good interface does not need instructions!](../../assets/SelfEvident.gif)  
-:::
 
 A good UI is:
 

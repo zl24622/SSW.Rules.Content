@@ -32,9 +32,6 @@ Some of the benefits of using environment variables are:
 * Can be used to control feature flags and other application settings.
 
 
-
-::: ok  
 ![Figure: Environment variable make configuration information easy](new-environment-variable.png)  
-:::
 
 More information here: https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/environmentvariables

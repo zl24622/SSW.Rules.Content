@@ -24,7 +24,4 @@ Eg.  **Todd Gardner in Norway 🇳🇴**
 
 This tip also works well on all social media platforms. Eg. Facebook, Instagram etc.
 
-
-::: ok  
-![Figure: Changing name when traveling](twitter-name.png)  
-:::
+![Figure: Changing name when traveling](twitter-name.png)

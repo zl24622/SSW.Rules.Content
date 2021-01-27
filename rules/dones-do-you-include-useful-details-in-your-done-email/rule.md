@@ -67,12 +67,6 @@ Let's look at some examples and tips:
 For those developers lucky enough to be using Microsoft Team Foundation Server (TFS 2005, 2008 or 2010) you can associate your code changes with a work item. This means that future developers can work out not just \*what\* changed, but \*why\*. 
 For those using TFS, enable the Checkin policy and force all developers to associate every check-in with a work item.
 
-
-::: ok  
 ![Figure: Make developers associate all check-ins to a work items](SourceControl\_AssociateWorkItems1.gif)  
-:::
 
-
-::: ok  
-![Figure: Enabling the Checkin Policy (via Project | Team Project Settings | Source Control | Add)](SourceControl\_AssociateWorkItems2.gif)  
-:::
+![Figure: Enabling the Checkin Policy (via Project | Team Project Settings | Source Control | Add)](SourceControl\_AssociateWorkItems2.gif)

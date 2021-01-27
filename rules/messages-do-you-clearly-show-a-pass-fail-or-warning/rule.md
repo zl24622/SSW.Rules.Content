@@ -25,10 +25,7 @@ When a user looks at a test result, they want to be quickly informed. Therefore,
 ![Figure: Bad Example - Pass and fail are not clear](../../assets/RulesT1.gif)  
 :::
 
-
-::: ok  
 ![Figure: Green text and tick for pass, red text and cross for fail (Better)](../../assets/RulesT2.gif)  
-:::
 
 
 ::: good  

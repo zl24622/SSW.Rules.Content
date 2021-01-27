@@ -18,7 +18,4 @@ Branded Plastic Bags should be used for giveaways, and people within the office 
 
 <!--endintro-->
 
-
-::: ok  
-![Figure: SSW plastic bag](ssw-bag.png)  
-:::
+![Figure: SSW plastic bag](ssw-bag.png)

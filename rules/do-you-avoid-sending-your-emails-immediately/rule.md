@@ -19,7 +19,4 @@ How often have you clicked "Send" and then wished you hadn't? It's a common prob
 
 <!--endintro-->
 
-
-::: ok  
-![Figure: Don't send emails immediately - you will often remember something you needed to add](do-not-send-immediately.jpg)  
-:::
+![Figure: Don't send emails immediately - you will often remember something you needed to add](do-not-send-immediately.jpg)

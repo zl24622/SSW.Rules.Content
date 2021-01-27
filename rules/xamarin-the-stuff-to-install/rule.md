@@ -22,10 +22,7 @@ Installing Visual Studio is not enough.... There is another 2 hours plus of down
 
 Install VS 2015 + the Xamarin extension:  https://msdn.microsoft.com/en-us/library/mt613162.aspx
 
-
-::: ok  
 ![Figure: You need "C#/.NET (Xamarin v4.1.0)](xamarin-1.png)  
-:::
 
 **Note:** Xamarin Studio doesn't exist on the PC anymore.
 
@@ -33,17 +30,11 @@ Install VS 2015 + the Xamarin extension:  https://msdn.microsoft.com/en-us/libra
 
 This one is painful...
 
-
-::: ok  
 ![](xamarin-2.png)  
-:::
 
 Then get all the ones that say "Installed" :
 
-
-::: ok  
 ![](xamarin-3.png)  
-:::
 
 ### Step 3 - "Manage NuGet Packages for Solution" (about 30 minutes)  
 
@@ -51,15 +42,9 @@ Then get all the ones that say "Installed" :
 Create a Blank App (xamarin.Forms Portable) project (this way it will trigger grabbing all extra stuff).
 Check and ensure Nuget Packages are up to date .
 
-
-::: ok  
 ![](xamarin-4.png)  
-:::
 
-
-::: ok  
 ![](xamarin-5.png)  
-:::
 
 ### Step 4 - run the app
 

@@ -22,10 +22,7 @@ Do the following:
 
 1. Browse to your Dynamics 365 Online URL | Advanced Settings | Settings | Email Configuration | Mailboxes | Browse for your mailbox:
    
-
-::: ok  
 ![Figure: You should see your mailbox. Click the link on Name and it will open up your mailbox settings](crm-open-meilbox-settings.png)  
-:::
 
 2. Make sure the following options are set (they might differ a bit depending on your CRM configuration):
     * **Allow to Use Credentials for Email Processing:** checked
@@ -40,10 +37,7 @@ If successful, you will receive an email, if not, contact your nearest SysAdmin
 4. Click Save & Close!
 
 
-
-::: ok  
 ![Figure: Setting up your mailbox in CRM](setup-mailbox-crm.png)  
-:::
 
 If you need more guidance on setting it up, you can find more on Microsoft documentation: [Set incoming and outgoing email synchronization](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/admin/set-incoming-outgoing-email-synchronization).
 

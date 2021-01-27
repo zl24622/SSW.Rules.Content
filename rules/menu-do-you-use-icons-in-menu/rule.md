@@ -30,7 +30,4 @@ While icons can make your application look good.
 
 You can use the MenuStrip control in .Net
 
-
-::: ok  
-![Figure: the Menuitem has a simple image property](../../assets/BetterUI\_MenuStrip\_DesignView.gif)  
-:::
+![Figure: the Menuitem has a simple image property](../../assets/BetterUI\_MenuStrip\_DesignView.gif)

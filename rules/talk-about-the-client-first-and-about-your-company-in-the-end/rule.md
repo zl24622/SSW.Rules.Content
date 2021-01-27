@@ -23,7 +23,4 @@ At SSW, our proposals are to be divided into 3 parts:
 
 <!--endintro-->
 
-
-::: ok  
-![Figure: Relevant information comes first on our proposals](Proposals\_ClientPagesFirst.jpg)  
-:::
+![Figure: Relevant information comes first on our proposals](Proposals\_ClientPagesFirst.jpg)

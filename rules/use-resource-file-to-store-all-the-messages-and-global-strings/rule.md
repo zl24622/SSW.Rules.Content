@@ -19,10 +19,7 @@ Storing all the messages and global strings in one place will make it easy to ma
 
 <!--endintro-->
 
-
-::: ok  
 ![Store messages in the Message.resx](Code\_StoreMessage.jpg)  
-:::
 
 
 

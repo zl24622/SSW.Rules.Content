@@ -37,17 +37,11 @@ MediatR is an open source .NET library by Jimmy Bogard that provides an elegant 
 
 For every command or query, you create a specific request class that explicitly defines the “input” required to invoke the operation.
 
-
-::: ok  
 ![Figure: (from MediatR docs) A Simple Request class](business-logic-presentation-layer-simple.png)  
-:::
 
 Then the implementation of that command or query is implemented in a handler class. The handler class is instantiated by a Dependency Injection container – so can use any of the configured dependencies (Repositories, Entity Framework, services etc).
 
-
-::: ok  
 ![Figure: A handler class](business-logic-presentation-layer-handler.png)  
-:::
 
 This approach brings many benefits:
 

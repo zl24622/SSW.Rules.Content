@@ -30,10 +30,7 @@ When a new developer joins a project, there is often a sea of information that t
 
 Make it easy for the new developer by putting all this information in a central location like the Visual Studio dashboard.
 
-
-::: ok  
 ![](plaindashboard.png)  
-:::
 
 
 ::: bad  
@@ -65,7 +62,4 @@ Your solution should also contain the standard [\_Instructions.docx](/Pages/DoYo
 
 For particularly large and complex projects you can use an induction tool like [SugarLearning](https://www.sugarlearning.com/) to create a course for getting up to speed with the project.
 
-
-::: ok  
-![](2016-06-06\_7-18-43.png)  
-:::
+![](2016-06-06\_7-18-43.png)

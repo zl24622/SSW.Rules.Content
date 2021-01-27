@@ -23,7 +23,4 @@ redirects:
 
 <!--endintro-->
 
-
-::: ok  
-![Figure: ASP.NET Core easily trounces ASP.NET 4 in number of requests per second (view source)](dotnet-core-performance.jpg)  
-:::
+![Figure: ASP.NET Core easily trounces ASP.NET 4 in number of requests per second (view source)](dotnet-core-performance.jpg)

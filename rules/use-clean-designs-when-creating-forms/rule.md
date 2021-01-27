@@ -51,25 +51,13 @@ A fairly standard Access 97 application that needs some love (Before a makeover)
 
 Screenshots of the existing Application in Access 97 after an SSW makeover (Good)
 
-
-::: ok  
 ![Figure: This is the same application above - can you believe it? We grouped the forms into tabs](accessui\_candidateedit1\_after.gif)  
-:::
 
-
-::: ok  
 ![Figure: The icons give the form visual appeal and help to break up the plain colors](accessui\_candidateedit2\_after.gif)  
-:::
 
-
-::: ok  
 ![Figure: It's easy to present your form more cleanly and with a Windows XP feel](accessui\_candidateedit3\_after.gif)  
-:::
 
-
-::: ok  
 ![Figure: Even tricky forms with lots of logic can be tidied up. We used XP-styled controls and careful alignment to make this form more usable](accessui\_candidatesearch\_after.gif)  
-:::
 
 ###  Better Example
 

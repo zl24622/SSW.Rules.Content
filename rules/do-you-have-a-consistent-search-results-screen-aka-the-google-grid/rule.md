@@ -36,17 +36,11 @@ Want the 'Google grid'? Then follow these rules to help users to navigate:
                         should be shown on the footer of the page only.
 
 
-
-::: ok  
 ![Figure: The header of SSW results screen                         - filter, number of results found, search criteria and time taken](results-filter.jpg)  
-:::
 
 
 ::: good  
 ![Figure: Good example - The footer of SSW product order listing page                         has the hyperlinks for pages 1 to 10 centered](results-pagination.jpg)  
 :::
 
-
-::: ok  
-![Figure: Google's classic search results](results-google.jpg)  
-:::
+![Figure: Google's classic search results](results-google.jpg)

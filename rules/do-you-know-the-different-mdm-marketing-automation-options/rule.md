@@ -40,7 +40,4 @@ The Marketing Automation inside Microsoft Dynamics Marketing is very powerful an
 * Trigger (e.g. if someone goes to an event)
 
 
-
-::: ok  
-![Figure: Simple drag and drop interface for creating automated marketing workflows](mdm-options.png)  
-:::
+![Figure: Simple drag and drop interface for creating automated marketing workflows](mdm-options.png)

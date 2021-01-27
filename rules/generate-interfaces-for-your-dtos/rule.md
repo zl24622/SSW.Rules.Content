@@ -27,10 +27,7 @@ Inevitably, our well-engineered Angular application will need to send and receiv
 
 One step better is to manually create interfaces for the DTOs. This gives type safety, but still means a lot of manual, tedious work to generate the interfaces.
 
-
-::: ok  
 ![Figure: OK example - Manually coded interface ensures any object passed to the service is in the correct format](dtogs-ok.png)  
-:::
 
 But this still doesn’t give safety over-the-wire – if the server side model changes, a developer has to remember to update it here, and hope that there are no typos.  This is also extra effort to perform something mindlessly repetitive – something a machine is much better at doing.  And we are programmers, right?
 If your WebAPI has an OpenAPI (a.k.a. Swagger) specification, then the NSwag tools can build a complete Typescript client configured as an Angular injectable service - complete with: 

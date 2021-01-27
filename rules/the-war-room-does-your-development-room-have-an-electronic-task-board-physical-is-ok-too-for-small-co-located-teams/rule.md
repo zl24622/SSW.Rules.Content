@@ -41,7 +41,4 @@ Print out this PDF and fill in the 2 fields and stick it on own task board.
 
 [!\[\](preview-taskboard.jpg)Download the "SSW Submit a PBI" PDF.](/Documents/SSWSubmitaPBI.pdf) 
 
-
-::: ok  
-![Figure: Create an avatar for each person and stick them on the current task. You can find our        User Story Cards here. You can write the TFS work item ID on each card.](Avatar.jpg)  
-:::
+![Figure: Create an avatar for each person and stick them on the current task. You can find our        User Story Cards here. You can write the TFS work item ID on each card.](Avatar.jpg)

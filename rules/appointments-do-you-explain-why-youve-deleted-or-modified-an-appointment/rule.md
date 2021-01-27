@@ -63,10 +63,7 @@ Figure: Good example – changing the subject
 
 This will help to solidify the changes and alleviate confusion.
 
-
-::: ok  
 ![Figure: Explaining the change that has been made using the prefix "UPDATE:". Using brackets is also an option](AppointmentWithComments.jpg)  
-:::
 
 ### Related Rule
 

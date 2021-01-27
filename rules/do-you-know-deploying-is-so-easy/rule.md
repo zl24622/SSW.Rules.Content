@@ -24,10 +24,7 @@ You have worked hard on the coding, got a pass from the testers. Great! Now you 
         or
     * Right click "Create Package"
             
-
-::: ok  
 ![Figure: For a web app it is just one click](PublishWeb.jpg)  
-:::
 
             
         
@@ -38,19 +35,13 @@ You have worked hard on the coding, got a pass from the testers. Great! Now you 
     * Right click "Create Setup" (Suggestion to Microsoft as menu doesn't exist)
 
         
-
-::: ok  
 ![Figure: For a Windows clients it is also just one click](PublishRichClient.jpg)  
-:::
 
         
     
 * The Database
             
-
-::: ok  
 ![Figure: For the Database it is ..... well one click is what you need to aim for](PublishDatabase.jpg)  
-:::
 
         
         <dd></dd>

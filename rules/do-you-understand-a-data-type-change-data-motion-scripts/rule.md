@@ -29,15 +29,9 @@ Scripting out a schema change is easy, worrying about data is not. "'Data motion
 
 We have a 'Gender' column (that is a Boolean) storing 0's and 1's. All works well for a while.
 
-
-::: ok  
 ![Figure: Anything wrong this Gender column?](TableBit.jpg)  
-:::
  Later you learn you need to change the data type to char(2) to support 'M', 'F', 'T', 'NA' and 'U'  
-
-::: ok  
 ![Figure: Caster Semenya has taught us a thing or two about the right data type for Gender](CasterSemenya.jpg)  
-:::
  The data then must be migrated to the new data type this way:  
 1. Rename 'Gender' to 'ztGender' \*
 2. Add a new column 'Gender' with type char(2)
@@ -45,17 +39,11 @@ We have a 'Gender' column (that is a Boolean) storing 0's and 1's. All works wel
 4. Delete the column ztGender\*
 
  \*Note: zt stands for Temporary  
-
-::: ok  
 ![Figure: Changing the data type and data required a "Data Motion Script"](TableChar.jpg)  
-:::
 
 Visual Studio does not automatically support this scenario, as data type changes are not part of the refactoring tools. However, if you add pre and post scripting events to handle the data type change the rest of the changes are automatically handled for you.
 
-
-::: ok  
 ![Figure: Don't use Data Dude](DataDude-BadExample.jpg)  
-:::
 
 note: In order to achieve this you MUST use the built in Refactor tools as it create a log of all the refactors in order. This helps Visual Studio generate the schema compare and make sure no data is lost.
 

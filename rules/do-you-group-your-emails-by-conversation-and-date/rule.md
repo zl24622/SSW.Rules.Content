@@ -35,10 +35,7 @@ Follow these steps to group by conversation:
 2. Right-click any column and choose the "Customize Current View..." option.
 3. Select the "Group by..." option as displayed in the image.
 
-
-::: ok  
 ![Figure:  Steps to group by conversation field](GroupByConversationAndDate3.gif)  
-:::
 
 4. Select the "Conversation" field from the list.  (Leave empty the remaining groups)
 

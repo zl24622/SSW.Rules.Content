@@ -72,17 +72,11 @@ Cortana then handles all the back-and-forth emails to find a time when everyone 
 
 **Step 3:** To make it easier to add Cortana to your emails, create a Contact.
 
-
-::: ok  
 ![Figure: Cortana added as a contact](CortanaContact.jpg)  
-:::
 
 **Mobile – works great ✔**
 
-
-::: ok  
 ![Figure: Microsoft Scheduler – Fully works on mobile phone](cortana-scheduler-mobile.jpg)  
-:::
 
 ### FindTime
 
@@ -95,10 +89,7 @@ Propose your selected times to all attendees and allow everyone to vote and quic
 
 FindTime sends out the meeting invite on your behalf. More on [https://findtime.microsoft.com](https://findtime.microsoft.com/)
 
-
-::: ok  
 ![Figure: FindTime gives a nice UI for people working in the same org, as you can see times that might be available for all attendees easily (e.g. 8 am above)](findtime-scheduler.jpg)  
-:::
 
 **Mobile – does not work ❌**
 
@@ -108,7 +99,4 @@ Vote at     [What features would you like to see in FindTime?](https://findtime.
 
 **Note:** Findtime’s competitor is https://calendly.com
 
-
-::: ok  
-![Figure: FindTime - No mobile support for iOS](findtime-mobile.jpg)  
-:::
+![Figure: FindTime - No mobile support for iOS](findtime-mobile.jpg)

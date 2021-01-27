@@ -18,10 +18,7 @@ When using MediatR within an ASP.NET Controller it is typical to see actions suc
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: A Typical ASP.NET Controller using Mediator](improve-mediatr-typical.png)  
-:::
 
 In the above example, the API contains a Create action that includes a CreateProductCommand parameter. This command is a request to create a new product, and the request is associated with an underlying request handler. The request is sent using MediatR with the method call \_mediator.Send(command). MediatR will match the request to the associated request handler and return the response (if any). In a typical implementation, the request and request handler would be contained within separate files:
 

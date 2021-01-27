@@ -33,10 +33,7 @@ Read "[Definition of Done](/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3dfc0e07-e23a-4
 
 **Note 2:** For tasks that will take time to be completely done (E.g. Producing a video), you may send a "work in progress" email. This way you avoid giving the perception that no action was in relation to the task.
 
-
-::: ok  
 ![Figure: Not Done Email](NotDone.jpg)  
-:::
 
 ### Tip 1: Say "Done" first
 

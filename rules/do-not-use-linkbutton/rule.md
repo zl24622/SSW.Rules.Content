@@ -18,15 +18,9 @@ If we want to refresh and data bind the same page from client side, we can use t
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: Right click the link with \_\_doPostBack event](RightClickLink.gif)  
-:::
 
-
-::: ok  
 ![Figure: New window with incorrect URL](PostBack.gif)  
-:::
 
 
 

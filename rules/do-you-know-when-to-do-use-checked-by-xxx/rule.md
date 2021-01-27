@@ -72,7 +72,4 @@ When you action a task for adding web content (such as a rule or suggestion), fi
 ![Figure: Reply to the email with grammar & spelling check and CA check results](SpellAndLinkCheck.jpg)  
 :::
 
-
-::: ok  
-![Figure: Consider this the '4 eye check' (four eye principle)](four-eyes.jpg)  
-:::
+![Figure: Consider this the '4 eye check' (four eye principle)](four-eyes.jpg)

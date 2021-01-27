@@ -29,10 +29,7 @@ Tip: This should be consistent with your standard description on the product box
 ![Figure: Bad Example - This "About" dialog does not provide enough information about the product and/or company](../../assets/BadHelpAboutForm.jpg)  
 :::
 
-
-::: ok  
 ![Figure: This "Help | About" form contains all 5 elements, but has room for aesthetic improvements (old SSW design)](../../assets/SSWHelpAbout.gif)  
-:::
 
 
 ::: good  

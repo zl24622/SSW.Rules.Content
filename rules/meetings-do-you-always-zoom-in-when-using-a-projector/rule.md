@@ -19,7 +19,4 @@ It is a common problem that people will tend to use the default screen resolutio
 
 It is always better to zoom in by holding down the CTRL button and scrolling up on the mouse.
 
-
-::: ok  
-![Figure: Zoom in email](ZoomInEmail.jpg)  
-:::
+![Figure: Zoom in email](ZoomInEmail.jpg)

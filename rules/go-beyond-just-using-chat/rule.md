@@ -36,10 +36,7 @@ Start: Asking ‘Can I call you?’ (Especially for complicated conversations)
 
 :::
 
-
-::: ok  
 ![Figure: A group call should look like this](skype-conference.jpg)  
-:::
 
 Here are some tips to have a better call:
 

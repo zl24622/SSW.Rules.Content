@@ -15,10 +15,7 @@ Keep a breadcrumb on every page is necessary. With this navigation tool,  users 
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: The breadcrumb](../../assets/WebsiteLayout\_Breadcrumb\_1.gif)  
-:::
 
 So every page should have a SiteMapPath Control.
 &lt;asp:SiteMapPath ID="SiteMapPath1" runat="server" SiteMapProvider="SiteMapProvider1"/&gt; Figure: SiteMapPath Control (Note:        [Code Auditor](http://www.ssw.com.au/ssw/redirect/ssw/CodeAuditor.htm) checks for the yellow highlighted text)

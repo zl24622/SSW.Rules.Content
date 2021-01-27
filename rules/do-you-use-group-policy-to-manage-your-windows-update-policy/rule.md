@@ -44,17 +44,11 @@ The best ensure you are still downloading updates but not installing them automa
 
 1. Create an Organization Unit (OU) in Active Directory, and put all your Production Servers in the OU
 
-
-::: ok  
 ![Add all your Production Servers to the Production Server OU](updates-adou.jpg)  
-:::
 
 2. Create a new Group Policy object and link it to the Production Server OU
 
-
-::: ok  
 ![Create a new Group Policy for your Production Servers](updates-gpo.jpg)  
-:::
 
 3. Edit the new Group Policy object and drill down to 
        **Computer Configuration** | 
@@ -68,10 +62,7 @@ The best ensure you are still downloading updates but not installing them automa
        **Configure Automatic Updating** option to 
        **3 – Auto download and notify for install
 
-
-::: ok  
 ![Edit Configure Automatic Updates Properties and enable 'Auto download and notify for install](updates-editgp.jpg)  
-:::
 **
 
 

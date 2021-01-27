@@ -18,10 +18,7 @@ Using a standard file structure for storing user data on laptops makes locating 
 
 Remember, the expectation is for all the questions to be answered with "YES" by the end of this checklist.
 
-
-::: ok  
 ![](data-backup.jpg)  
-:::
 
 
 <!--endintro-->

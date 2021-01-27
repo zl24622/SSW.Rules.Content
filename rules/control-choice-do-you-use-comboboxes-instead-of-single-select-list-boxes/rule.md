@@ -34,10 +34,7 @@ ComboBoxes are better than List Boxes  **for data entry** because:
 
 As mentioned before, there are exceptions to this rule. It would be hard to imagine the Include/Exclude boxes in the SQL Server Enterprise Manager's Server Registration Wizard being handled with ComboBoxes, for example.
 
-
-::: ok  
 ![Figure: Include/Exclude Listboxes are an example of a valid use for List Boxes](../../assets/ListBoxesAreEvil\_ExceptForThisOne.gif)  
-:::
 
 
 | We have a program called [SSW Code Auditor](http://www.ssw.com.au/ssw/CodeAuditor/) to check for this rule. |

@@ -19,7 +19,4 @@ Having many people in a company that are able to make schema changes, can only l
  Let's see how to fix the issue:   
 <!--endintro-->
  To avoid this problem, only one person (the "Schema Master") should have permissions to upgrade the database.      ![](FullPermission.jpg)      Figure: The db\_owner role is granted for one person only – the "Schema Master"        
-
-::: ok  
-![Figure: And here is the "Schema Master" at SSW](Adam.jpg)  
-:::
+![Figure: And here is the "Schema Master" at SSW](Adam.jpg)

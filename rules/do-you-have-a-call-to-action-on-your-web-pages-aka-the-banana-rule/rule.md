@@ -24,10 +24,7 @@ For example, if your page is selling software, make it easy for your users to ma
 
 How would you get a monkey pay attention to something? You could lure him by tempting                     him with a banana. Once we have the monkeys attention focused on the banana, he                     will try to get his hands on it regardless of the barriers on his way.
 
-
-::: ok  
 ![Figure: If the monkey can see the banana, he will do whatever it takes to get it](banana.jpg)  
-:::
 
 This is how the "banana rule" should be applied:
 

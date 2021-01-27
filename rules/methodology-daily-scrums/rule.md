@@ -60,10 +60,7 @@ Then you’ll be able to say to your Scrum Master, “I’ve had a look at the T
 
 At the end of the Scrum, the Scrum Master should     [review the current burn down](/reports-do-you-schedule-the-burndown-and-stories-overview-reports-to-be-emailed-to-the-team-every-day) to check on the progress of the team.
 
-
-::: ok  
 ![Figure: The burndown chart in tfs.visualstudio.com](burndowntfspreview.png)  
-:::
 
 **Tip 3: Keep a schedule of the Daily Scrum times on a wall (+ have a recurring appointment in Outlook)**
 
@@ -87,10 +84,7 @@ Regards,
 :::
 Figure: Schedule a recurring Daily Scrum meeting in Outlook using this template
 
-
-::: ok  
 ![Figure: Or you can use Microsoft Teams](teams-meeting-daily-scrum.jpg)  
-:::
 
 **Tip 4: Keep to the schedule. Same place, same time (and start even if people are missing)**
 
@@ -119,10 +113,7 @@ Technology in the Daily Scrum causes people to lose focus on the goal. The goal 
 
 A task board allows people to visualize what the team is talking about.
 
-
-::: ok  
 ![Figure: The Task Board from tfs.visualstudio.com (TFS 2012)](tfspreviewtaskboard.png)  
-:::
 
 **Tip 9: Carry a pen and paper**
 
@@ -135,10 +126,7 @@ A "Parking Lot" is the place for any discussions that stop the Team from answeri
 
 **Tip 11: If you have raised impediments, consider contacting the Product Owner**
 
-
-::: ok  
 ![Figure: Often the Product Owner won’t be at the Scrum. However, call the Product Owner if you have an Impediment (aka Roadblock). Communication with the Product Owner is essential and if you haven't touched base with him in the few days, then do so. A disconnected or absent Product Owner is a sign of dysfunction.](ProductOwnerTelephone.jpg)  
-:::
 
 **Tip 12: What to do when you're working for a PO directly**
 
@@ -226,15 +214,9 @@ The goal is to be productive for 8 hours of the day, so communicate with the res
 
 It is important that any major incidents are dealt with first. Start with any major incidents that occurred in the last 24 hours.
 
-
-::: ok  
 ![Figure: Daily Scrums will alert everyone if there is a major problem and get all brains aligned in the right direction. There is no sense in putting a Band-Aid on a patient's scraped knee if there is a big knife in his eye!](NewStandUpImage.jpg)  
-:::
 
-
-::: ok  
 ![Figure: If you like this,        retweet  ;)](dailyscrumtweet.png)  
-:::
 
 ### Related rule
 

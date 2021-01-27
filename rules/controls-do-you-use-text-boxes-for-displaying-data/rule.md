@@ -40,12 +40,6 @@ As you can see you'll barely know the difference, so start using Textboxes for d
 
 When using TextBox controls in Windows Forms, set them up like this:
 
-
-::: ok  
 ![Figure: Having the 'BorderStyle' Property set to Fixed3D is the best choice visually](../../assets/BorderStyle\_1.gif)  
-:::
 
-
-::: ok  
-![Figure: Make the text box Read-Only (users copying data is OK, changing is silly)](../../assets/ReadOnly\_1.gif)  
-:::
+![Figure: Make the text box Read-Only (users copying data is OK, changing is silly)](../../assets/ReadOnly\_1.gif)

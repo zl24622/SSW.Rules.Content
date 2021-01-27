@@ -76,7 +76,4 @@ Finally, at the end of a project, you should go through a "Go-Live Audit". The C
 
 
 
-
-::: ok  
-![](MS Cloud Design Patterns Infographic SSW Edited.png)  
-:::
+![](MS Cloud Design Patterns Infographic SSW Edited.png)

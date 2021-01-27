@@ -43,10 +43,7 @@ The      **AdAccount** type is based on the      **ValueObject** type, which you
 
 Working with the AD accounts will now be easy. You can construct a new      **AdAccount** with the factory method      **For** as follows:
 
-
-::: ok  
 ![](when-use-value-eg-1.png)  
-:::
 
 The factory method      **For** ensures only valid AD accounts can be constructed and for invalid AD account strings, exceptions are meaningful, i.e.      **AdAccountInvalidException** rather than      **IndexOutOfRangeException** .
 
@@ -69,10 +66,7 @@ The value object also supports implicit and explicit conversion operators. You c
 
 If you're using Entity Framework Core, you should also configure the type as follows:
 
-
-::: ok  
 ![Figure: Using Entity Framework Core to Configure Value Objects as Owned Entity Types](when-use-value-eg-2.png)  
-:::
 
 With the above configuration in place, EF Core will name the database columns for the properties of the owned entity type as      **AdAccount\_Domain** and      **AdAccount\_Name** . You can learn more about     [Owned Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities) by reviewing the EF Core documentation.
 

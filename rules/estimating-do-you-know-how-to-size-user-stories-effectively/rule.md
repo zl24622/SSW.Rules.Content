@@ -110,10 +110,7 @@ This is particularly useful if you don't have Planning Poker cards.  Instead of 
 
 The action is done in the same method as the game 'Rock, Paper, Scissors'. The options the developer can estimate is 1,2,3,4,5
 
-
-::: ok  
 ![Figure: PBI estimates using the "Thrown method"](fist-method.jpg)  
-:::
 
 ### Other Tips
 

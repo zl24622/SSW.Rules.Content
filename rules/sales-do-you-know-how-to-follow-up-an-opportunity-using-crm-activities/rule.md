@@ -17,10 +17,7 @@ Once you create an opportunity, you should click the "Add phone call" button to 
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: Use sales activities to follow up an opportunity](FollowUpActivity.jpg)  
-:::
 
 You can see your outstanding activities in your CRM workspace homepage, and this           should keep you on top of all of your current opportunities.
 

@@ -36,7 +36,4 @@ Audience shots are great except when you don’t have a full house. In this case
 
 
 
-
-::: ok  
-![Figure: Using a VIP sign on the back row to prevent people sitting there initially](vip.jpg)  
-:::
+![Figure: Using a VIP sign on the back row to prevent people sitting there initially](vip.jpg)

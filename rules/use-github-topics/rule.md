@@ -26,10 +26,7 @@ Adding topics can increase the discoverability of your repos for both bots and h
 
 GitHub introduced topics in 2017, and you can use topics to search for repositories. For example, if you are looking for Blazor examples or libraries, you can enter Blazor as a search term, and then refine the search to repositories that have been tagged with the ‘Blazor’ topic.
 
-
-::: ok  
 ![Figure: Searching for repositories by topic](github-repositories-topics-search.jpg)  
-:::
 
 Topics also help others to find your repository and increase the visibility and discoverability of your work.
 

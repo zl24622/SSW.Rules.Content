@@ -30,10 +30,7 @@ See examples of pages that advertise their hashtags:
 * [SSW Rules](/) #SSWRules
 
 
-
-::: ok  
 ![Figure: This Twitter widget shows the hashtags working](hashtag-twitter.jpg)  
-:::
 
 
 ::: good  

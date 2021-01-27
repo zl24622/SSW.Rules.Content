@@ -29,10 +29,7 @@ Since rebasing results in brand new commits, Git will think that your master bra
 ![Figure: Bad Example: Rebasing master onto a feature branch can cause project history to become confused.](rebase3.png)  
 :::
 
-
-::: ok  
 ![Figure: To get it wrong in Visual Studio you would need to change the current branch to master and then choose rebase. While this is possible, the VS team have done a good job making it hard to do the wrong thing](rebase4.png)  
-:::
 
 
 ::: good  

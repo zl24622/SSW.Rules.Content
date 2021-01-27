@@ -22,10 +22,7 @@ redirects:
 3. Don't play a sound when you receive an email. Remember - you do need a sound when you receive an IM in case you're not looking at your PC when it arrives.
 
 
-
-::: ok  
 ![Figure: Minimize Skype alerts you receive](minimize-skype-distractions.jpg)  
-:::
 
 ### Related Rules
 

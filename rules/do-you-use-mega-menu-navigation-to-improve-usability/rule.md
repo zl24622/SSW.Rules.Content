@@ -33,7 +33,4 @@ Of course, don't use a mega dropdown menu just because you can. Turning your nor
 ![Figure: Good Example - Links are grouped into distinct category](megamenu.jpg)  
 :::
 
-
-::: ok  
-![Figure: Bear in mind that mobile menus are limited](mobilemenu.jpg)  
-:::
+![Figure: Bear in mind that mobile menus are limited](mobilemenu.jpg)

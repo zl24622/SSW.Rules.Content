@@ -25,10 +25,7 @@ redirects:
 
 You want users to easily edit content, so you put an "edit" button on the page. From there, you can choose between the power of HTML or the limitations of Markdown.
 
-
-::: ok  
 ![Figure: "Edit" button to encourage users updating the content](edit-button.jpg)  
-:::
 
 **HTML** is frightening for most users, as one wrong tag or an inline styling can break the whole page view.
 
@@ -49,10 +46,7 @@ Depending on the markdown parser you choose, there are many plugins that allow y
 * [SSW.People cheatsheet](https://ssw.com.au/people/sample) (using CommonMark parser)
 
 
-
-::: ok  
 ![](markdown.jpg)  
-:::
 
 
 
@@ -125,10 +119,7 @@ Markdown is simple and limited, but you can make it richer.
 
 One way is to use inline HTML, this allows you to use HTML tags that you are familiar with (only if you need to) and embed things like YouTube videos or JavaScript.
 
-
-::: ok  
 ![Figure: OK Example – you can use raw HTML in your Markdown, and mostly it will work pretty well. But you can’t use Markdown’s syntactic sugar in the HTML](use-html-in-markdown.png)  
-:::
 
 The other way is to use templates or containers:
 
@@ -179,7 +170,4 @@ Figure: Better Example - YouTube video embedding using plugin
 ### Markdown to HTML rendering processes
 
 
-
-::: ok  
-![Figure: The markdown rendered either Client-side or Server-side](markdown-rendering.jpg)  
-:::
+![Figure: The markdown rendered either Client-side or Server-side](markdown-rendering.jpg)

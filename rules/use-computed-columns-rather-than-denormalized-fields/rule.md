@@ -54,7 +54,4 @@ RETURN (round(isnull(CONVERT([decimal](8,6),@TimeEnd - @TimeStart,(0))*(24),(0))
 
  **Figure: This is the user defined function
 ** 
-
-::: ok  
-![Figure: Setting up a computed column in the table designer](NormalizedFieldsDefine.jpg)  
-:::
+![Figure: Setting up a computed column in the table designer](NormalizedFieldsDefine.jpg)

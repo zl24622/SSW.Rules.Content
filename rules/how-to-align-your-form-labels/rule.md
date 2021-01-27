@@ -22,10 +22,7 @@ There are different ways to align your form labels and each has its own pros and
 
 ### Top aligned
 
-
-::: ok  
 ![](label-top-aligned.png)  
-:::
 
 
 ::: good
@@ -53,10 +50,7 @@ Cons:
 ### Left aligned
 
 
-
-::: ok  
 ![](label-left-aligned.png)  
-:::
 
 
 ::: good
@@ -82,10 +76,7 @@ Cons
 
 ### Right aligned
 
-
-::: ok  
 ![](label-right-aligned.png)  
-:::
 
 
 ::: good
@@ -113,10 +104,7 @@ Cons
 Alternatively, we can use Material labeling which places them inside the form and slides up on focus.
 
 
-
-::: ok  
 ![](label-material-labeling.png)  
-:::
 
 
 ::: good

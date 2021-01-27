@@ -26,7 +26,4 @@ As well as testing latency it has additional tests that come in handy like:
 
 
 
-
-::: ok  
-![Figure: AzureSpeed.com example](azure-speed.jpg)  
-:::
+![Figure: AzureSpeed.com example](azure-speed.jpg)

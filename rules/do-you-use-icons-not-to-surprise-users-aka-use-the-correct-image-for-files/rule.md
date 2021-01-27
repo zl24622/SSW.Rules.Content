@@ -47,10 +47,7 @@ Don't surprise users! Use the following icons:
 | YouTube | ![](youtube-icon_png.jpg)This is a link to a YouTube Video |
 
 
-
-::: ok  
 ![Figure: FYI there are the same images used by Google at GoogleDesktopSideBar.htm](../../assets/GoogleIcons.gif)  
-:::
 
 
 ::: bad  

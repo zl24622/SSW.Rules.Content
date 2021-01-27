@@ -31,24 +31,15 @@ The feature is built-in to IIS 8
 2. Browse to the website in question
 3. Open Advanced settings 
       
-
-::: ok  
 ![Figure: IIS](iis8-1.jpg)  
-:::
 
 4. Change the “start mode” to “Always running” 
       
-
-::: ok  
 ![Figure: Start mode](iis8-2.jpg)  
-:::
 
 5. Change Preload Enabled to True 
       
-
-::: ok  
 ![Figure: Preload setting](iis8-3.jpg)  
-:::
 
 
 
@@ -61,18 +52,12 @@ The feature is built-in to IIS 8
 3. Select the server
 4. Scroll down and select 
        **Configuration Editor** 
-
-::: ok  
 ![Figure: IIS](iis7-1.jpg)  
-:::
 
 5. From the 
        **Section** menu select 
        **system.applicationHost / applicationPools** 
-
-::: ok  
 ![Figure: Configuration editor](iis7-2.jpg)  
-:::
 
 6. Double click the 
        **“…”** to the right of 
@@ -82,10 +67,7 @@ The feature is built-in to IIS 8
        **Properties** window, scroll down and select 
        **startMode** , choose 
        **AlwaysRunning** 
-
-::: ok  
 ![Figure: Set "start Mode"](iis7-3.jpg)  
-:::
 
 9. On the top right select 
        **Apply**

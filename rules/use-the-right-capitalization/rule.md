@@ -19,10 +19,7 @@ With so many different capitalization conventions used in technology names, it c
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: John Bristowe tackled some of the most commonly confused tech names in this tweet](john-bristow-tweet.jpg)  
-:::
 
 The main 5 types used are:
 

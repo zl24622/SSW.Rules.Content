@@ -28,7 +28,4 @@ NO ACTION is the default if ON DELETE or ON UPDATE is not specified.
 
 Relationships should always have referential integrity turned on. If you turned it on after data has been added, you may have data in your database that violates your referential integrity rules.
 
-
-::: ok  
-![Figure: Recommended referential integrity constraints](ReferentialIntegrityCheck.jpg)  
-:::
+![Figure: Recommended referential integrity constraints](ReferentialIntegrityCheck.jpg)

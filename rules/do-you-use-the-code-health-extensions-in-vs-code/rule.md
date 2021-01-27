@@ -33,10 +33,7 @@ For web projects, we advocate the use of CSSLint for css files and TSLint for ty
 Linters for these can be easily added to VS Code via extensions.
 Simply select the "Extensions" tab, search for "CSSLint" and "TSLint" and click "Install" on each respectively.
 
-
-::: ok  
 ![Figure: Addition of CssLi nt and TSLint to VS Code Project](VSCode-Extensions.png)  
-:::
 
 If you prefer not to use the Extensions (which are currently a bit out of date). You can install them using npm as normal. 
 CssLint ([Csslint npm guide](https://www.npmjs.com/package/csslint))

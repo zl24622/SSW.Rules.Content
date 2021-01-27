@@ -68,7 +68,4 @@ Thanks, Patricia
 :::
 Figure: Good Example - appropriate notice given
 
-
-::: ok  
-![Figure: Did you give enough notice, or do we need to track you down?](BeachEnforcers.jpg)  
-:::
+![Figure: Did you give enough notice, or do we need to track you down?](BeachEnforcers.jpg)

@@ -44,23 +44,11 @@ There are a few customizations needed to get the SSW Contact Makeover:
 Q: So what is the end result? 
 A: The end user experience to add a phone number is ..
 
-
-::: ok  
 ![Figure:  Step 1: Double-click the contact (or right-click the contact and               select Open) Open](contact4.jpg)  
-:::
 
-
-::: ok  
 ![Figure:  Step 2: Select the tab 'More Contact Details'](contact5.jpg)  
-:::
 
 
-
-::: ok  
 ![Figure:  Step 3: Click the button 'New Contact Detail'](contact6.jpg)  
-:::
 
-
-::: ok  
-![Figure:  Step 4: Enter the details and click button 'Save and Close' (top               left)](contact7.jpg)  
-:::
+![Figure:  Step 4: Enter the details and click button 'Save and Close' (top               left)](contact7.jpg)

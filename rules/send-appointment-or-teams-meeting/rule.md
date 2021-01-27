@@ -55,22 +55,13 @@ Sending appointments from Teams feels less natural than from Outlook but there a
 
      To setup a Teams meeting, simply navigate to "Calendar" and then either "Meet Now" or "New Meeting".
 
-
-::: ok  
 ![Figure: Creating a new meeting](creating-new-meeting.jpg)  
-:::
 
-
-::: ok  
 ![Figure: Meeting options](meetings-options.jpg)  
-:::
 
 You can select a Channel to meet in and by doing so, members of the Team in which this channel lives will see a Channel activity that you can click to directly jump in the meeting.
 
-
-::: ok  
 ![Figure: meeting channel activity](meeting-channel-activity.jpg)  
-:::
 
 Microsoft Teams will also send out an email invitation email for the meeting - this is especially useful when inviting people outside your organization.
 

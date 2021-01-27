@@ -46,9 +46,6 @@ You can find more extensions at [Visual Studio | Marketplace](https://marketplac
 
 This extension is for those times where you have a project open in      **Visual Studio** and you want to be able to quickly open it in      **Visual Studio Code** .
 
-
-::: ok  
 ![Figure: Get to Visual Studio Code quickly from within Visual Studio -        Open in Visual Studio Code extension](open-in-vscode.png)  
-:::
 
 **More:** [Why do others love VS Code?](https://stackshare.io/posts/why-developers-love-visual-studio-code)

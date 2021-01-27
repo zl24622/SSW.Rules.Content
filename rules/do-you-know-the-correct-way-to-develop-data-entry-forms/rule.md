@@ -168,10 +168,7 @@ Data Entrees should be able to use your data entry form with ease. It should fol
             updatedBy.UpdatedBy = .EmpUpdated
             </pre><dd>Code: Code for Setting values for User Control</dd>    Databinding is also available to be used with this user control.
 
-
-::: ok  
 ![Figure: Data Binding using the Designer](../../assets/CommonFieldsDB.gif)  
-:::
 
 9. ### Minimum Defaults
     In many situations, there is a need for field Defaults. These Defaults can be extracted from the Database for example. When a new form is opened ensure that only necessary Defaults are loaded. By Default some decimal fields will become 0.0, but make sure they are set to blank because they may be required fields.

@@ -119,28 +119,19 @@ Immediately before the scheduled downtime, check for logged in users, file acces
 
 Open 'Windows Task Manager' (Run &gt; taskmgr) and select the 'Users' tab. Check with users if they have active connections, then have them log off.
 
-
-::: ok  
 ![Figure: Connected users can be viewed in Task Manager](rule-outage-3.png)  
-:::
 
 ### Files
 
 Open 'Computer Management' (Run &gt; compmgmt.msc), then 'System Tools &gt; Shared Folders'. Check 'Session' and 'Open Files' for user connections.
 
-
-::: ok  
 ![Figure: Computer Management 'Open Files' View](rule-outage-4.png)  
-:::
 
 ### Database
 
 Open SQL Server Management Studio on the server. Connect to the local SQL Server. Expand 'Management' and double-click 'Activity Manager'.
 
-
-::: ok  
 ![Figure: SQL Management Studio 'Active Connections' View](rule-outage-5.gif)  
-:::
 
 Once these have been checked for active users, and users have logged off, maintenance can be carried out.
 

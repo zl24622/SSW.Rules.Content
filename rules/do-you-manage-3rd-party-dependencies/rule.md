@@ -33,10 +33,7 @@ Many of these services are completely blocked inside other countries. China, in 
 
 Although China is the most well-known country for blocking sites, other countries also block services - like Google (e.g. Iran, Syria) and YouTube (e.g. Pakistan, Syria).
 
-
-::: ok  
 ![Figure: Blocked sites as per        freebrowsinglink.com/countries-banned-social-media](social-media-blocked.png)  
-:::
 
 If the runtime operation of your site depends upon these services, your website will either fail or perform poorly for users in China. Start by reviewing how many of these services are essential, what they do and whether there are China-based equivalents. The fewer external dependencies in your site, the easier it will be to Chinafy.
 

@@ -37,10 +37,7 @@ iPhone
 2. Navigate to  **General | About**
 3. Look for  **WiFi Address
 
-
-::: ok  
 ![](iphone-mac.png)  
-:::
 **
 
 
@@ -52,10 +49,7 @@ iPhone
 3. Tap   **Status/Hardware information**
 4. Scroll down to see your  **WiFi/MAC address
 
-
-::: ok  
 ![](android-mac-address.jpg)  
-:::
 **
 
 

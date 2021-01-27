@@ -23,10 +23,7 @@ redirects:
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: Do you want users to have good first impressions?](pic16-TestingDoYouWantThemT.gif)  
-:::
 
 There are a number of different types of tests that you can perform:
 

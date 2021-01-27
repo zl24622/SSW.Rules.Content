@@ -18,18 +18,12 @@ Installing MS Lync client on Iphone or Ipad. Employees should be contactable no 
 
 1. Search for “Lync” in the Apple App store 
       
-
-::: ok  
 ![Figure: Search for Lync application in App store.](Lync1.png)  
-:::
 
 2. Install the Lync client on device
 3. Set up Lync to sign into your account as follows: 
       
-
-::: ok  
 ![Figure: you just need to enter 3 fields](Lync2.png)  
-:::
 
     * Sign-in address is your 
              **email address**

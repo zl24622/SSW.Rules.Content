@@ -99,20 +99,11 @@ At the Sprint Planning:
 ### Screenshots
 
 
-
-::: ok  
 ![Figure: Screenshot of code with tech debt comment and link to GitHub issue](techdebt-github.png)  
-:::
 <dd></dd>
-
-::: ok  
 ![Figure: Screenshot of tech debt on backlog](techdebt-backlog.png)  
-:::
 <dd></dd>
-
-::: ok  
 ![Figure: SugarLearning architecture diagram](techdebt-architecture.png)  
-:::
 <dd></dd>
 ### Related Rule
 

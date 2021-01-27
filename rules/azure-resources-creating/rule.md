@@ -162,10 +162,7 @@ Figure: Good Example - From the console simply run 'pulumi up' to deploy your re
 
 It’s early days so     [not much help (from Google trends)](https://trends.google.com/trends/explore?q=azure%20pulumi%2cazure%20teraform%2cazure%20ansible%2cazure%20farmer%E2%80%8B) yet.
 
-
-::: ok  
 ![Figure: Google Trends shows that Terraform is the most searched for as it’s been around the longest and is well established](google trends.png)  
-:::
 
 ### General Tips
 

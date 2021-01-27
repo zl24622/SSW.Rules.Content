@@ -148,19 +148,10 @@ namespace SSW.NETToolkit.IntegrationTests
 
 
 
-
-::: ok  
 ![Figure: This rule is consistent with the Visual Studio default](TestGenerationSettings.gif)  
-:::
 **Tip:** You can create a test project using the Unit Test Wizard: Test &gt; Add New Test
 
 
-
-::: ok  
 ![Figure: Unit Test Wizard 1](AddNewTest.gif)  
-:::
 
-
-::: ok  
-![Figure: Unit Test Wizard 2](CreateUnitTests.gif)  
-:::
+![Figure: Unit Test Wizard 2](CreateUnitTests.gif)

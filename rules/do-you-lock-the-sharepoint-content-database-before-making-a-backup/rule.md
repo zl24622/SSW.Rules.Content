@@ -40,10 +40,7 @@ Option 2 ( **not recommended** ):
 
 4.    For the      **Database Read-Only** choose True
 
-
-::: ok  
 ![Figure - Database Properties | Options | Database-Read Only](LocLSQLDB.jpg)  
-:::
 
 5.    Now it’s safe to take a backup of your content database
 

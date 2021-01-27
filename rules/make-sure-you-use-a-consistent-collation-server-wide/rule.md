@@ -38,7 +38,4 @@ See these Knowledge Base articles for more information about the issues you will
     There is no 'recommended' collation as different collations will be used in different countries but as a guideline, installations in the United States and installations that require compatibility with SQL Server 7 databases should use the SQL\_Latin1\_General\_Cp1\_CI\_AS collation. Non-United States installations in English speaking countries should use the Latin1\_General\_CI\_AS collation
 
 
-
-::: ok  
-![Figure: Setting the collation in SQL 2019 Setup - Choose Case Insensitive(CI), Accent Sensitive (AS)](Sql2019\_CollationSettingsAtSetup.png)  
-:::
+![Figure: Setting the collation in SQL 2019 Setup - Choose Case Insensitive(CI), Accent Sensitive (AS)](Sql2019\_CollationSettingsAtSetup.png)

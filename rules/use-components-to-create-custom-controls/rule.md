@@ -24,7 +24,4 @@ For more information on Components look at the following blog post: https://powe
 
 Full documentation here: https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/create-component
 
-
-::: ok  
-![Figure: Create a new Component](newcomponent-powerapps.png)  
-:::
+![Figure: Create a new Component](newcomponent-powerapps.png)

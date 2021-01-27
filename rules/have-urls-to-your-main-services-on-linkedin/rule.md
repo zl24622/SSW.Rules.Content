@@ -20,10 +20,7 @@ LinkedIn is the main business and employment-oriented social networking service 
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: Use the "Link" button in your profile "edit mode" to include the URLs for the main services your provide](linkedin-links.jpg)  
-:::
 
 
 ::: bad  

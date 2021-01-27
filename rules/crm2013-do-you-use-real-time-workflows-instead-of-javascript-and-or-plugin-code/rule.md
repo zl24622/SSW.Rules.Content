@@ -21,26 +21,17 @@ CRM 2013 adds real-time (synchronous) workflows. These workflows run in sync wit
 
 First Create the Workflow (don’t forget to uncheck the Run this workflow in the background):
 
-
-::: ok  
 ![Figure: Create the Workflow](realtime-workflow.png)  
-:::
 
 Second, set the properties of the workflow:
 
 In this example it’s set to when ‘Est Value’ field changes
  If ‘Est Value’ is greater than $100,000 then stop and cancel
 
-
-::: ok  
 ![Figure: Stop and cancel if ‘Est Value’ greater than $100,000](realtime-workflow-2.png)  
-:::
 
 Once the Real-Time workflow is  **Activated** the ‘Est Value’ field will no longer accept values above $100,000. This is a simple example but in versions prior to CRM2013 this would have been implemented in Javascript or Plugin Code.
 
 Using the Real-Time Workflow saves a lot of time and effort.
 
-
-::: ok  
-![Figure: Lead cannot be saved if Est value is greater than $100,000](realtime-workflow-3.png)  
-:::
+![Figure: Lead cannot be saved if Est value is greater than $100,000](realtime-workflow-3.png)

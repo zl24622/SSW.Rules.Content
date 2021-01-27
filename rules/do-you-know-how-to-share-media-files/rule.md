@@ -56,17 +56,8 @@ Ideally SharePoint would be used for all content storage but occasionally it is 
 Having the folder on the remote machine allows remote backup. All folders used for SSW Work must be shared with the SSW Dropbox Account.
 The SSW sys-admin is responsible for backing up the SSW Dropbox account daily.
 
-
-::: ok  
 ![Figure: To allow you to use Dropbox for work, first create a folder called SSW\_[YourName] (e.g. SSW\_AdamStephensen), right click on the folder and choose Share this folder...](share-media-files-5.jpg)  
-:::
 
-
-::: ok  
 ![Figure: Add the email address of the company Dropbox account and click Send Invites. Once the Administrator accepts the share, your important work files will be available in the case that you leave or get hit by a bus](share-media-files-6.jpg)  
-:::
 
-
-::: ok  
-![Figure: The Administrator account must now accept the sharing invitation, and the folder will be added to the Administrators Dropbox folder. The Admin should configure a machine to pull the files locally and back them up](share-media-files-7.jpg)  
-:::
+![Figure: The Administrator account must now accept the sharing invitation, and the folder will be added to the Administrators Dropbox folder. The Admin should configure a machine to pull the files locally and back them up](share-media-files-7.jpg)

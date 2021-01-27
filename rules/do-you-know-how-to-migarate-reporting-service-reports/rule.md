@@ -31,22 +31,13 @@ There are three steps:
       [Do you know which reports are being used?](/do-you-know-which-reports-are-being-used)
 * Find creators of those reports, by clicking “Detail Views” in reports folder
       
-
-::: ok  
 ![Figure: Find reports creators by clicking "Details View" inside report folder](detailsview.png)  
-:::
 
 * Send an email to report creater ask for permission to delete 
 
-
-::: ok  
 ![Figure:  Send an email to ask permission](sent.png)  
-:::
 
-
-::: ok  
 ![Figure: Email received with permission to delete from creator](receive.png)  
-:::
 
 
 ### 2. Migrate those in-use reports from old server to new server

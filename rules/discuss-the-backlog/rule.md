@@ -18,10 +18,7 @@ redirects:
 
 When discussing a PBI/Issue, Pull Request, or a project in general, it is important to do it in the right place.
 
-
-::: ok  
 ![](Kanban-on-Screen.jpg)  
-:::
 
 <!--endintro-->
 

@@ -29,12 +29,6 @@ These tests can also be added to the same library as your unit, web and load tes
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure 1 - Database Unit Test](AddNewTest.jpg)  
-:::
 
-
-::: ok  
-![Figure 2 - Writing the unit test against a stored proc](WriteUnitTest.jpg)  
-:::
+![Figure 2 - Writing the unit test against a stored proc](WriteUnitTest.jpg)

@@ -89,10 +89,7 @@ You are at Level 2 when you have some static Word documents with the steps to co
 ### Level #3: Lots of documentation (and the exact steps to Get Latest and compile with the \*database\*)
 
 
-
-::: ok  
 ![Figure: Level 2 Documentation includes database build scripts. We use        SSW SQL Deploy to make keeping all databases on the same version simple. Check out        how to use SQL Deploy here](instructions-level2.jpg)  
-:::
 
 ### Level #4: Less documentation (and Get Latest and compile with a PowerShell script)
 

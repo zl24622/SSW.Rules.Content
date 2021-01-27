@@ -25,10 +25,7 @@ Twitter Bootstrap is a NuGet Package that provides a jump-start for HTML based p
 
 Building your site on top of bootstrap makes it much easier to have your website look great on devices of all sizes, across many different browsers.
 
-
-::: ok  
 ![Figure: This website template, along with many others is available as a starting point for building Bootstrap-based sites](bootstrap-1.jpg)  
-:::
 
 
 ::: bad  

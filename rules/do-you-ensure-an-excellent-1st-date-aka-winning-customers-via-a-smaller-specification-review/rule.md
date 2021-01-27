@@ -31,10 +31,7 @@ It is a simple 4 step process:
 2. Make sure you get [Terms and Conditions](http://www.ssw.com.au/ssw/standards/forms/ConsultingOrderTermsConditions.aspx) signed before you start work on this.
 3. [Specification Review](/rules) - You will create a backlog of tasks, and some form of document (word or ppt) to present to the client explaining your proposed approach.
 
-
-::: ok  
 ![](ms-ppt-word-logos.jpg)  
-:::
 
 4. Present the Spec Review results to the client (in a meeting with all stakeholders) on site if possible, or over the phone if not, but never just by email.
 

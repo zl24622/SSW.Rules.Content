@@ -41,16 +41,10 @@ Then, check out these books:
 
 This book by Robert C. Martin (aka ‘Uncle Bob’) should be anyone’s starting point for reading further.
 
-
-::: ok  
 ![Figure: Clean Architecture: A Craftsman's Guide to Software Structure and Design](clean-architecture-book-1.jpg)  
-:::
 
 This resource by Steve Smith is available as an online e-book and contains up-to-date specific examples for ASP.NET Core and Azure.
 
 
 
-
-::: ok  
-![Figure: Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](clean-architecture-book-2.png)  
-:::
+![Figure: Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](clean-architecture-book-2.png)

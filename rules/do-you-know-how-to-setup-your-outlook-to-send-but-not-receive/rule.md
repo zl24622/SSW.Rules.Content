@@ -23,26 +23,17 @@ Here is how you do it:
 1. Open Outlook and create a new Exchange account: 
       
 
-
-::: ok  
 ![Figure - Tick manually configure server settings](mail1.png)  
-:::
 
 2. Enter your server name and user name, but un-tick 
        **Use Cached Exchange Mode** :  
       
-
-::: ok  
 ![Figure - Un-tick Use Cached Exchange Mode](Mail3.png)  
-:::
 
 3. Finish the setup and then open Outlook
 4. Configure your Send / Receive Groups: 
       
-
-::: ok  
 ![Figure - Click Send / Receive | Click Send / Receive Groups | Click Define Send / Receive Groups](Email2.png)  
-:::
 
 5. Now we can choose the parts of our mailbox we want to synced to our PC. The following options are recommended:
     * Untick 
@@ -59,10 +50,7 @@ Here is how you do it:
              **Download headers only**
 
 
-
-::: ok  
 ![Figure - Untick "Receive mail items" | Tick "Sent Items", "Contacts" and "Outbox" | Download only headers for "Sent Items"](Email.png)  
-:::
 
 6. When back in the main Outlook window click 
        **Send / Receive** **All** **Folders** and this will sync your sent items and contacts which will now be available offline

@@ -20,7 +20,4 @@ Generally you will add Javascript to the form to give client side validation.
 Given JavaScript is difficult to debug and doesn't get precompiled this can save           a lot of time rather than re-publishing all the form changes and having to reload           and refresh the forms manually.
            These events can be trigged using the Preview menu from the form customization environment.
 
-
-::: ok  
-![Figure: Test your Javascript via the Preview menu in the Custom Forms Designer](CRM\_TestForm.jpg)  
-:::
+![Figure: Test your Javascript via the Preview menu in the Custom Forms Designer](CRM\_TestForm.jpg)

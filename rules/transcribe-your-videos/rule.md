@@ -22,10 +22,7 @@ The most important step is setting the right title and description. As this is w
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: How to improve the keywords of this video?](transcribe.jpg)  
-:::
 
 The keywords for the video above are:
 
@@ -54,10 +51,7 @@ How to capture all of these missing keywords?  You can't just overload your cont
 
 The answer is to have your video content transcribed. As it provides drastically benefits for the discoverability of your video content, while the organic nature of the written material ensures it is not flagged as spam.
 
-
-::: ok  
 ![Figure: Checkout the rest of this example transcript - http://blog.chrisbriggsy.com/Ilija-Injac-on-IoT/](transcription.jpg)  
-:::
 
 A quick Google search will show a range of services which will make the task effortless. However, professional transcriptions are expensive. If you’re willing to spend a little time cleaning up technical jargon then it is worth checking out  **fiverr** (https://www.fiverr.com/categories/writing-translation/transcription).
 

@@ -44,7 +44,4 @@ Beware, this is intended for convenience and should not conflict with the follow
 ![Figure: Good example - The Product Owner can now see who he should speak to and developers know where to send done emails](UserStoryOwner\_Good.png)  
 :::
 
-
-::: ok  
-![Figure: Use the 'Assigned To' column to identify who will be presenting the task](TFS\_Screenshot4.png)  
-:::
+![Figure: Use the 'Assigned To' column to identify who will be presenting the task](TFS\_Screenshot4.png)

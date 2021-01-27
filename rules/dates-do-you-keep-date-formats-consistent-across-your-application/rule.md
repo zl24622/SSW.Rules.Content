@@ -15,10 +15,7 @@ Date formats should always be kept consistent across your application, more impo
 
 <!--endintro-->
 
-
-::: ok  
 ![Figure: Operating System's Regional Settings](../../assets/BetterInterface\_RegionalSettings.jpg)  
-:::
 
 
 ::: bad  

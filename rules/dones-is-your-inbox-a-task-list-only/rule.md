@@ -26,10 +26,7 @@ Your inbox should only contain 'tasks', that are actionable items on your  **lis
 
 So do it now, delete all emails you have done. If you want to keep some for reference, move them to a new folder that is not in your inbox.
 
-
-::: ok  
 ![Figure: All inbox items are tasks](inbox-tasks-list.jpg)  
-:::
 
 In fact, you could go so far as to say you should not do anything unless you have an email telling you to do it (which is why we [send ourselves emails](/dones-do-you-send-yourself-emails)). However, very simple tasks can be requested and replied 'done' via IM.
 

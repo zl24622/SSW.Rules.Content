@@ -19,10 +19,7 @@ Azure is Microsoft's Cloud service. However, you have to pay for every little bi
 
 Before diving in, it is good to have an understanding of the basic built-in user roles:
 
-
-::: ok  
 ![Figure: Roles in Azure](tabl.png)  
-:::
 
 **More info:** https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
 

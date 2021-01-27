@@ -25,7 +25,4 @@ IM can interrupt a person when they are busy, so make sure that you are well pre
 
 <!--endintro-->
 
-
-::: ok  
-![Figure: Don't make someone else have to Google something for you](lmgtfy.jpg)  
-:::
+![Figure: Don't make someone else have to Google something for you](lmgtfy.jpg)

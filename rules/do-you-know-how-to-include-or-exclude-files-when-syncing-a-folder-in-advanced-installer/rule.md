@@ -33,10 +33,7 @@ Here is how you do it:
        **OK** on each screen
 
 
-
-::: ok  
 ![Figure: Edit Filters dialog](installers-include-exclude-1.jpg)  
-:::
 
 
 ::: bad  
