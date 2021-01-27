@@ -14,6 +14,7 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
+- do-you-have-a-continuous-integration-ci-server
 - do-you-have-a-continuous-integration-(ci)-server
 
 ---

@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/william-yin
 related: []
 redirects:
+- sharepoint-do-you-know-how-to-rename-a-rule-url-internal-only
 - sharepoint-do-you-know-how-to-rename-a-rule-url-(internal-only)
 
 ---

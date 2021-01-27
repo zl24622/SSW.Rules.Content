@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - do-you-know-when-to-use-a-hashtag-vs-a-@mention
+- twitter-do-you-know-when-to-use-a-hashtag-vs-a-mention
 - twitter-do-you-know-when-to-use-a-hashtag-vs-a-@mention
 
 ---

@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- search-do-you-fix-search-with-office-app-for-content-preview-on-premise-only
 - search-do-you-fix-search-with-office-app-for-content-preview-(on-premise-only)
 
 ---

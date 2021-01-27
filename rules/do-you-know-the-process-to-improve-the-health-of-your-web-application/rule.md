@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/chris-briggs
 related: []
 redirects:
+- errors-do-you-know-the-daily-process-to-improve-the-health-of-your-web-application
 - errors-–-do-you-know-the-daily-process-to-improve-the-health-of-your-web-application
 
 ---

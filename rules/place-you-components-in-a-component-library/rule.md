@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
+- do-you-place-you-components-in-a-component-library-canvas-apps
 - do-you-place-you-components-in-a-component-library-(canvas-apps)
 
 ---

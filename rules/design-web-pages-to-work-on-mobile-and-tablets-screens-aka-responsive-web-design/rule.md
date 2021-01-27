@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-design-your-web-pages-to-work-on-mobile-tablets-screens-28aka-responsive-web-design29
+- do-you-design-your-web-pages-to-work-on-mobile-tablets-screens-aka-responsive-web-design
 - do-you-design-your-web-pages-to-work-on-mobile-tablets-screens-(aka-responsive-web-design)
 
 ---

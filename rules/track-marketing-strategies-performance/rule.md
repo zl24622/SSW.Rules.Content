@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/penny-walker
 related: []
 redirects:
+- do-you-track-your-marketing-strategies-performance
 - do-you-track-your-marketing-strategies’-performance
 
 ---

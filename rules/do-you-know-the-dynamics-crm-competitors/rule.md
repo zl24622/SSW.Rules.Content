@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
+- do-you-know-the-dynamics-365-crm-competitors
 - do-you-know-the-dynamics-365-(crm)-competitors
 
 ---

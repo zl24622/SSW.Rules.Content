@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- do-you-pre-format-your-time-strings-before-using-timespan-parse
 - do-you-pre-format-your-time-strings-before-using-timespan-parse()
 
 ---

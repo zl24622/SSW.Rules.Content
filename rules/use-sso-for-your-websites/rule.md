@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- do-you-use-sso-single-sign-on-for-your-websites
 - do-you-use-sso-(single-sign-on)-for-your-websites
 
 ---

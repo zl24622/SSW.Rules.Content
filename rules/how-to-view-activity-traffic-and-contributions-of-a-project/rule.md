@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/patricia-barros
 related: []
 redirects:
+- do-you-know-how-to-view-a-projects-activity-traffic-and-contributions
 - do-you-know-how-to-view-a-project’s-activity-traffic-and-contributions
 
 ---

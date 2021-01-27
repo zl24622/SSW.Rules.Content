@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
+- dones-do-you-know-how-to-do-a-perfect-done-replying-to-a-bug
 - dones-do-you-know-how-to-do-a-perfect-done-(replying-to-a-bug)
 
 ---

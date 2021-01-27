@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-complete-work-in-order-of-importance-(aka-priorities)
+- priorities-do-you-complete-work-in-order-of-importance-aka-priorities
 - priorities-do-you-complete-work-in-order-of-importance-(aka-priorities)
 
 ---

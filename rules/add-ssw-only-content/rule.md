@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- sharepoint-do-you-know-how-to-add-ssw-only-content-to-a-rule-internal-only
 - sharepoint-do-you-know-how-to-add-ssw-only-content-to-a-rule-(internal-only)
 
 ---

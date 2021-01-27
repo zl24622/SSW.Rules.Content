@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - memory-leak-–-do-you-look-for-native-code-that’s-missing-dispose
+- do-you-look-for-native-code-thats-missing-dispose
 - do-you-look-for-native-code-that’s-missing-dispose
 
 ---

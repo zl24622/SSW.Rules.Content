@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- communication-do-you-follow-the-sandwich-rule-avoid-curt-emails-when-correcting-people
 - communication-do-you-follow-the-sandwich-rule-(avoid-curt-emails-when-correcting-people)
 
 ---

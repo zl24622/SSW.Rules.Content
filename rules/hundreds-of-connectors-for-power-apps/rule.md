@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
+- do-you-know-there-are-hundreds-of-connectors-for-power-apps-canvas
 - do-you-know-there-are-hundreds-of-connectors-for-power-apps-(canvas)
 
 ---

@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
+- fixed-price-do-you-transition-back-to-tm-at-the-end-of-the-warranty-period
 - fixed-price-–-do-you-transition-back-to-tm-at-the-end-of-the-warranty-period
 
 ---

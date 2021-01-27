@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-stephensen
 related: []
 redirects:
+- do-you-understand-that-with-angular-you-read-and-write-to-the-model-never-to-the-page-a-k-a-forget-about-jquery
 - do-you-understand-that-with-angular-you-read-and-write-to-the-model-never-to-the-page-(a-k-a-forget-about-jquery)
 
 ---

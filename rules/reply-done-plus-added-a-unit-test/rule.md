@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- do-you-write-unit-tests-to-confirm-bugfixes-aka-red-green-refactor
 - do-you-write-unit-tests-to-confirm-bugfixes-(aka-red-green-refactor)
 
 ---

@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- do-you-have-a-google-my-business-aka-places-entry
 - do-you-have-a-google-my-business-(aka-places)-entry
 
 ---

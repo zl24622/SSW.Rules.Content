@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- do-your-page-urls-use-dashes-between-words
 - do-your-page-url’s-use-dashes-between-words
 
 ---

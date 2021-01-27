@@ -10,6 +10,7 @@ related: []
 redirects:
 - do-you-know-how-to-use-snom-voip-phones-(physical-phones-+-microsoft-lync)
 - do-you-know-how-to-use-snom-voip-phones-(physical-phones-microsoft-lync)
+- do-you-know-how-to-use-snom-voip-phones-physical-phones-skype-for-business
 - do-you-know-how-to-use-snom-voip-phones-(physical-phones-+-skype-for-business)
 
 ---

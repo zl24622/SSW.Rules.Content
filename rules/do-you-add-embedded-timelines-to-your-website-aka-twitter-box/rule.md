@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-add-embedded-timelines-to-your-website-(aka-twitter-box)
+- do-you-add-embedded-social-media-to-your-website-aka-twitter-box
 - do-you-add-embedded-social-media-to-your-website-(aka-twitter-box)
 
 ---

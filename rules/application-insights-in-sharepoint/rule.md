@@ -13,6 +13,7 @@ authors:
 related:
 - how-to-set-up-application-insights
 redirects:
+- do-you-know-how-to-set-up-application-insights-in-sharepoint
 - do-you-know-how-to-set-up-application-insights-(in-sharepoint)
 
 ---

@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - know-where-your-staff-is
+- do-you-know-where-your-staff-are-and-where-theyre-supposed-to-be
 - do-you-know-where-your-staff-are-(and-where-they’re-supposed-to-be)
 
 ---

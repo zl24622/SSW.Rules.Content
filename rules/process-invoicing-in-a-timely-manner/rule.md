@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - process-billing-in-a-timely-manner
+- do-you-do-invoicing-in-a-timely-manner-i-e-once-a-week
 - do-you-do-invoicing-in-a-timely-manner-(i-e-once-a-week)
 
 ---

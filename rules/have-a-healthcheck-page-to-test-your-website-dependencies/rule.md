@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- do-you-have-a-healthcheck-was-zsvalidate-page-to-test-your-website-dependencies
 - do-you-have-a-healthcheck-(was-zsvalidate)-page-to-test-your-website-dependencies
 
 ---

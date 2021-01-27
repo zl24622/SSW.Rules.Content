@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - do-you-know-how-to-create-a-＂customer-portal＂-(in-sharepoint)
+- do-you-know-how-to-create-a-customer-portal-in-sharepoint
 - do-you-know-how-to-create-a-customer-portal-(in-sharepoint)
 
 ---

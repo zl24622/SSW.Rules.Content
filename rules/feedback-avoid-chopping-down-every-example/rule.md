@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- communication-do-you-know-how-to-take-feedback-criticism-the-3-as
 - communication-do-you-know-how-to-take-feedback-criticism-(the-3-a’s)
 
 ---

@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- general-ethics-do-you-only-do-what-you-think-is-right-professional-integrity
 - general-ethics-do-you-only-do-what-you-think-is-right-(professional-integrity)
 
 ---

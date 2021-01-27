@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/cameron-shaw
 related: []
 redirects:
+- do-you-know-when-to-use-1
 - do-you-know-when-to-use-+1
 
 ---

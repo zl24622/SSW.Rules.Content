@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
+- fixed-price-do-you-clearly-deliver-the-project-and-start-the-warranty-period
 - fixed-price-–-do-you-clearly-deliver-the-project-and-start-the-warranty-period
 
 ---

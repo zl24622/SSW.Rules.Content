@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- do-you-keep-your-serverless-application-warm-to-avoid-cold-starts
 - do-you-keep-your-serverless-application-warm-(to-avoid-cold-starts)
 
 ---

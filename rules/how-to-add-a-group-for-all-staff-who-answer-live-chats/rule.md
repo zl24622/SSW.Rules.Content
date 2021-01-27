@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
+- do-you-know-how-to-add-a-group-aka-departments-for-all-staff-who-answer-live-chats
 - do-you-know-how-to-add-a-group-(aka-departments)-for-all-staff-who-answer-live-chats
 
 ---

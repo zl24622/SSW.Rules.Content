@@ -14,6 +14,7 @@ related:
 - do-you-know-the-best-tools-and-techniques-to-maintain-your-professional-integrity
 redirects:
 - do-you-have-professional-integrity
+- communication-do-you-have-professional-integrity-are-you-a-person-of-your-word
 - communication-do-you-have-professional-integrity-(are-you-a-person-of-your-word)
 
 ---

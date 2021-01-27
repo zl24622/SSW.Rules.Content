@@ -11,6 +11,7 @@ authors:
 related: []
 redirects:
 - do-you-make-your-cc’s-grey
+- do-you-know-how-to-make-your-ccs-grey
 - do-you-know-how-to-make-your-cc’s-grey
 
 ---

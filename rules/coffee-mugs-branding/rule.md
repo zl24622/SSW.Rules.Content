@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- do-you-brand-your-computer-safe-coffee-mugs-and-water-bottles
 - do-you-brand-your-(computer-safe)-coffee-mugs-and-water-bottles
 
 ---

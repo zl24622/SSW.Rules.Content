@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/ulysses-maclaren
 related: []
 redirects:
+- do-you-know-how-to-browse-your-sites-visitors
 - do-you-know-how-to-browse-your-site’s-visitors
 
 ---

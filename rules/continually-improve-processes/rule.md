@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- devops-stage-4-do-you-continually-improve-processes
 - devops-–-stage-4-do-you-continually-improve-processes
 
 ---

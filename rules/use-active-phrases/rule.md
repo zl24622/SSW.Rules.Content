@@ -17,6 +17,7 @@ related:
 - refer-consistently-throughout-your-document
 - awesome-documentation
 redirects:
+- tiny-do-you-use-active-phrases-no-zombies-please
 - tiny-do-you-use-active-phrases-(no-zombies-please)
 
 ---

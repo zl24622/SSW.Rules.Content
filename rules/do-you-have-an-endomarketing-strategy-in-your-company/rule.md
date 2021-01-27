@@ -10,8 +10,8 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 related:
 - do-you-have-a-waiting-area-that-reinforces-your-marketing-profile
-- notifications-do-you-know-how-to-see-whats-going-on-in-your-project
-- sem-do-you-use-microsoft-advertising-formerly-known-as-bing-ads
+- how-to-see-what-is-going-on-in-your-project
+- do-you-use-microsoft-advertising-formerly-known-as-bing-ads
 - branding-do-you-know-when-to-use-an-overlay-on-images
 redirects: []
 

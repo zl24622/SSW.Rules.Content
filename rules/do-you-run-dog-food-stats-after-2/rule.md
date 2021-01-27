@@ -9,6 +9,7 @@ authors: []
 related: []
 redirects:
 - do-you-run-dog-food-stats-(after)-(2)
+- do-you-run-dog-food-stats-after
 - do-you-run-dog-food-stats-(after)
 
 ---

@@ -15,6 +15,7 @@ authors:
 related: []
 redirects:
 - make-sure-all-software-are-english
+- do-you-make-sure-all-software-uses-english-language-setting
 - do-you-make-sure-all-software-uses-english-(language-setting)
 
 ---

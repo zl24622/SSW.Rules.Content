@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - when-you-use-@-mentions-in-a-pbi
+- do-you-know-when-you-use-mentions-in-a-pbi
 - do-you-know-when-you-use-@-mentions-in-a-pbi
 
 ---

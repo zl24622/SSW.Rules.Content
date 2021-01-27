@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/brendan-richards
 related: []
 redirects:
+- do-you-serialize-view-models-aka-dtos-not-domain-entities
 - do-you-serialize-view-models-(aka-dtos)-not-domain-entities
 
 ---

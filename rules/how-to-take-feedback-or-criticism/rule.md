@@ -13,6 +13,7 @@ authors:
 related: []
 redirects:
 - do-you-know-how-to-take-feedback-criticism-(even-if-it’s-not-your-fault)
+- communication-do-you-know-how-to-take-feedback-criticism-even-if-its-not-your-fault
 - communication-do-you-know-how-to-take-feedback-criticism-(even-if-it’s-not-your-fault)
 
 ---

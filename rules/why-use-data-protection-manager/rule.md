@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/steven-andrews
 related: []
 redirects:
+- do-you-know-why-to-use-data-protection-manager-dpm
 - do-you-know-why-to-use-data-protection-manager-(dpm)
 
 ---

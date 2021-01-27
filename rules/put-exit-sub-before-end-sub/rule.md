@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
+- do-you-know-not-to-put-exit-sub-before-end-sub-vb
 - do-you-know-not-to-put-exit-sub-before-end-sub-(vb)
 
 ---

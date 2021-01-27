@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/mehmet-ozdemir
 related: []
 redirects:
+- do-you-know-when-to-use-power-automate-vs-internal-workflow-engine-model-driven-apps
 - do-you-know-when-to-use-power-automate-vs-internal-workflow-engine-(model-driven-apps)
 
 ---

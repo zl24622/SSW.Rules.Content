@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/matt-wicks
 related: []
 redirects:
+- devops-stage-3-do-you-know-what-metrics-to-collect
 - devops-–-stage-3-do-you-know-what-metrics-to-collect
 
 ---

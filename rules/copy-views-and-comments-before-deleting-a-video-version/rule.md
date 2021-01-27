@@ -12,6 +12,7 @@ authors:
   url: https://ssw.com.au/people/raj-dhatt
 related: []
 redirects:
+- do-you-take-a-copy-of-the-data-views-and-comments-before-deleting-a-version-for-good
 - do-you-take-a-copy-of-the-data-(views-and-comments)-before-deleting-a-version-for-good
 
 ---

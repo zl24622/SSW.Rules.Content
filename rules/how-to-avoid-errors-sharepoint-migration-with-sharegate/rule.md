@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/jean-thirion
 related: []
 redirects:
+- do-you-know-how-to-avoid-errors-with-sharegate
 - do-you-know-how-to-avoid-errors-(with-sharegate)
 
 ---
