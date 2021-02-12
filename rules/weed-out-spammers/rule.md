@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/joanna-feely
 - title: Jerwin Parker Roberto
   url: https://ssw.com.au/people/jerwin-parker
+  img: https://github.com/SSWConsulting/SSW.People.Profiles/raw/main/Jerwin-Parker/Images/Jerwin-Parker-Profile.jpg
 related:
 - do-you-share-when-you-upgrade-an-application
 - do-you-use-a-conversion-code-in-your-lead-generation-campaigns

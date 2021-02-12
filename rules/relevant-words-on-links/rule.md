@@ -14,6 +14,7 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 - title: Jerwin Parker Roberto
   url: https://ssw.com.au/people/jerwin-parker
+  img: https://github.com/SSWConsulting/SSW.People.Profiles/raw/main/Jerwin-Parker/Images/Jerwin-Parker-Profile.jpg
 related: []
 redirects:
 - do-you-use-relevant-words-on-your-links

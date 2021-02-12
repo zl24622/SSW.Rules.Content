@@ -10,6 +10,7 @@ authors:
   url: https://ssw.com.au/people/camilla-rosa-silva
 - title: Jerwin Parker Roberto
   url: https://ssw.com.au/people/jerwin-parker
+  img: https://github.com/SSWConsulting/SSW.People.Profiles/raw/main/Jerwin-Parker/Images/Jerwin-Parker-Profile.jpg
 related:
 - do-you-know-why-you-need-to-understand-your-perfect-prospects-pain-points
 - do-you-know-how-to-use-a-perfect-prospects-pain-points-in-your-online-marketing
