@@ -7,7 +7,7 @@ uri: monitor-budget-and-track-spending-consistently
 created: 2021-02-04T19:00:11.0000000Z
 authors:
 - title: Jerwin Parker Roberto
-  url: https://ssw.com.au/people/jerwin-parker-roberto
+  url: https://ssw.com.au/people/jerwin-parker
 related: []
 redirects:
 - do-you-monitor-your-budget-on-google-and-track-your-spending-consistently

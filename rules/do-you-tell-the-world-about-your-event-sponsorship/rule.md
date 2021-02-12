@@ -9,7 +9,7 @@ authors:
 - title: Ulysses Maclaren
   url: https://ssw.com.au/people/ulysses-maclaren
 - title: Jerwin Parker Roberto
-  url: https://ssw.com.au/people/jerwin-parker-roberto
+  url: https://ssw.com.au/people/jerwin-parker
 related: []
 redirects: []
 

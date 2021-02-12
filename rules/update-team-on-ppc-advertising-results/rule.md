@@ -7,7 +7,7 @@ uri: update-team-on-ppc-advertising-results
 created: 2021-02-04T19:03:37.0000000Z
 authors:
 - title: Jerwin Parker Roberto
-  url: https://ssw.com.au/people/jerwin-parker-roberto
+  url: https://ssw.com.au/people/jerwin-parker
 related: []
 redirects:
 - do-you-update-your-team-on-your-ppc-advertising-results

@@ -9,7 +9,7 @@ authors:
 - title: Joanna Feely
   url: https://ssw.com.au/people/joanna-feely
 - title: Jerwin Parker Roberto
-  url: https://ssw.com.au/people/jerwin-parker-roberto
+  url: https://ssw.com.au/people/jerwin-parker
 related:
 - do-you-share-when-you-upgrade-an-application
 - do-you-use-a-conversion-code-in-your-lead-generation-campaigns

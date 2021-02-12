@@ -7,7 +7,7 @@ uri: do-you-keep-your-content-creators-informed-2
 created: 2020-10-13T04:31:06.0000000Z
 authors:
 - title: Jerwin Parker Roberto
-  url: https://ssw.com.au/people/jerwin-parker-roberto
+  url: https://ssw.com.au/people/jerwin-parker
 related: []
 redirects:
 - do-you-keep-your-content-creators-informed

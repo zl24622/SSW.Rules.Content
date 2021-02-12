@@ -7,7 +7,7 @@ uri: use-skags
 created: 2021-01-27T17:59:44.0000000Z
 authors:
 - title: Jerwin Parker Roberto
-  url: https://ssw.com.au/people/jerwin-parker-roberto
+  url: https://ssw.com.au/people/jerwin-parker
 related: []
 redirects:
 - do-you-use-single-keyword-ad-groups-skags

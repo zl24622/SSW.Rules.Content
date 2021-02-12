@@ -11,7 +11,7 @@ authors:
 - title: Toby Goodman
   url: https://ssw.com.au/people/toby-goodman
 - title: Jerwin Parker Roberto
-  url: https://ssw.com.au/people/jerwin-parker-roberto
+  url: https://ssw.com.au/people/jerwin-parker
 related:
 - keep-your-social-media-updated
 - do-you-know-to-use-hash-tags

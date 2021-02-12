@@ -9,7 +9,7 @@ authors:
 - title: Marlon Marescia
   url: https://ssw.com.au/people/marlon-marescia
 - title: Jerwin Parker Roberto
-  url: https://ssw.com.au/people/jerwin-parker-roberto
+  url: https://ssw.com.au/people/jerwin-parker
 - title: Camilla Rosa Silva
   url: https://ssw.com.au/people/camilla-rosa-silva
 related: []

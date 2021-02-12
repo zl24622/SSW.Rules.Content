@@ -9,7 +9,7 @@ authors:
 - title: Camilla Rosa Silva
   url: https://ssw.com.au/people/camilla-rosa-silva
 - title: Jerwin Parker Roberto
-  url: https://ssw.com.au/people/jerwin-parker-roberto
+  url: https://ssw.com.au/people/jerwin-parker
 related:
 - do-you-share-when-you-upgrade-an-application
 - weed-out-spammers

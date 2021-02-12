@@ -11,7 +11,7 @@ authors:
 - title: Marlon Marescia
   url: https://ssw.com.au/people/marlon-marescia
 - title: Jerwin Parker Roberto
-  url: https://ssw.com.au/people/jerwin-parker-roberto
+  url: https://ssw.com.au/people/jerwin-parker
 related: []
 redirects: []
 

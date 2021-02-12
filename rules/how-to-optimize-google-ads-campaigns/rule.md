@@ -11,7 +11,7 @@ authors:
 - title: Camilla Rosa Silva
   url: https://ssw.com.au/people/camilla-rosa-silva
 - title: Jerwin Parker Roberto
-  url: https://ssw.com.au/people/jerwin-parker-roberto
+  url: https://ssw.com.au/people/jerwin-parker
 related: []
 redirects:
 - do-you-know-how-to-optimize-google-adwords-campaigns
