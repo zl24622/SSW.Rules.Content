@@ -179,3 +179,10 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org  
 [1]: http://slashdot.org  
 [link text itself]: http://www.reddit.com
+
+::: hidden
+e7d15b01-2a21-4e0f-bc71-c09e5d356cbc-7947936
+:::
+
+oembed: https://twitter.com/MrHinsh/status/24123713864
+
