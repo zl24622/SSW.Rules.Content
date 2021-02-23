@@ -73,6 +73,6 @@ Standards don't need to come at the expense of creativity. Following standards m
 Jack Test:
 
 Access this file: 
-[relative](./HowAgileAreYou_TheAgilityIndex_AdamCogan_and_JoelSemeniuk%20(1).docx)
-[alone](HowAgileAreYou_TheAgilityIndex_AdamCogan_and_JoelSemeniuk%20(1).docx)
-[slash](/HowAgileAreYou_TheAgilityIndex_AdamCogan_and_JoelSemeniuk%20(1).docx)
+![relative](./HowAgileAreYou_TheAgilityIndex_AdamCogan_and_JoelSemeniuk%20(1).docx)
+![alone](HowAgileAreYou_TheAgilityIndex_AdamCogan_and_JoelSemeniuk%20(1).docx)
+![slash](/HowAgileAreYou_TheAgilityIndex_AdamCogan_and_JoelSemeniuk%20(1).docx)
