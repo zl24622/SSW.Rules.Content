@@ -68,3 +68,11 @@ What you do in your model is not nearly as important as doing what you do the sa
 **Figure: The Barber gave an inconsistent experience. Excerpt from "The E Myth" page 10** 
 
 Standards don't need to come at the expense of creativity. Following standards means less time doing the administrative stuff and more time for the creative. Of course, standards are works in progress, and so we are always on the lookout for improvements. That's why standards should be shared with everyone.
+
+
+Jack Test:
+
+Access this file: 
+[relative](./HowAgileAreYou_TheAgilityIndex_AdamCogan_and_JoelSemeniuk%20(1).docx)
+[alone](HowAgileAreYou_TheAgilityIndex_AdamCogan_and_JoelSemeniuk%20(1).docx)
+[slash](/HowAgileAreYou_TheAgilityIndex_AdamCogan_and_JoelSemeniuk%20(1).docx)
