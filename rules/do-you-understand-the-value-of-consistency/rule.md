@@ -73,4 +73,4 @@ Standards don't need to come at the expense of creativity. Following standards m
 Jack Test:
 
 Access this file: 
-![alone](HowAgileAreYou_TheAgilityIndex_AdamCogan_and_JoelSemeniuk%20(1).docx)
+[HowAgileAreYou](https://github.com/SSWConsulting/SSW.Rules.Content/raw/test-content-small/rules/do-you-understand-the-value-of-consistency/HowAgileAreYou_TheAgilityIndex_AdamCogan_and_JoelSemeniuk%20(1).docx)
